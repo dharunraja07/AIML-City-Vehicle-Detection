@@ -1,0 +1,47 @@
+[
+  {
+    "plateText": "TN37AB1234",
+    "reason": "STOLEN",
+    "priority": "CRITICAL",
+    "notes": "Stolen white Hyundai Creta reported at Race Course Police Station",
+    "addedBy": "Inspector Rajesh (Cyber Cell)",
+    "expiresAt": "2027-12-31T23:59:59.000Z",
+    "isActive": true
+  },
+  {
+    "plateText": "TN38XY9999",
+    "reason": "WANTED",
+    "priority": "CRITICAL",
+    "notes": "Vehicle suspected to be involved in commercial burglary case #482",
+    "addedBy": "DSP Vijay",
+    "expiresAt": "2027-12-31T23:59:59.000Z",
+    "isActive": true
+  },
+  {
+    "plateText": "TN66BZ5500",
+    "reason": "EXPIRED_INSURANCE",
+    "priority": "LOW",
+    "notes": "Commercial transport vehicle without valid fitness & third-party insurance",
+    "addedBy": "RTO Coimbatore South",
+    "expiresAt": "2027-06-30T23:59:59.000Z",
+    "isActive": true
+  },
+  {
+    "plateText": "22BH9876AA",
+    "reason": "SUSPICIOUS",
+    "priority": "HIGH",
+    "notes": "BH-series vehicle flagged for multiple red light violations & reckless driving",
+    "addedBy": "Traffic Control Room",
+    "expiresAt": "2027-12-31T23:59:59.000Z",
+    "isActive": true
+  },
+  {
+    "plateText": "TN33CC4040",
+    "reason": "CUSTOM",
+    "priority": "MEDIUM",
+    "notes": "High priority surveillance target",
+    "addedBy": "Special Branch",
+    "expiresAt": "2027-12-31T23:59:59.000Z",
+    "isActive": true
+  }
+]

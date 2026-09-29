@@ -1,0 +1,973 @@
+{
+  "timestamp": "2026-09-29 19:26:35",
+  "realHeldout": {
+    "datasetName": "Real-Photo Held-Out Test Set (150 images)",
+    "sampleCount": 150,
+    "exactMatchAccuracy": 58.0,
+    "characterLevelAccuracy": 82.59,
+    "avgLatencyMs": 1581.03,
+    "conditionBreakdown": {
+      "angle": {
+        "samples": 25,
+        "exactMatchAcc": 88.0,
+        "charLevelAcc": 98.76,
+        "avgLatencyMs": 1419.56
+      },
+      "blur": {
+        "samples": 24,
+        "exactMatchAcc": 54.17,
+        "charLevelAcc": 91.99,
+        "avgLatencyMs": 1799.17
+      },
+      "day": {
+        "samples": 22,
+        "exactMatchAcc": 86.36,
+        "charLevelAcc": 98.59,
+        "avgLatencyMs": 1561.88
+      },
+      "dirty": {
+        "samples": 28,
+        "exactMatchAcc": 3.57,
+        "charLevelAcc": 27.1,
+        "avgLatencyMs": 1539.85
+      },
+      "night": {
+        "samples": 23,
+        "exactMatchAcc": 60.87,
+        "charLevelAcc": 95.94,
+        "avgLatencyMs": 1606.67
+      },
+      "rain": {
+        "samples": 28,
+        "exactMatchAcc": 64.29,
+        "charLevelAcc": 92.02,
+        "avgLatencyMs": 1573.38
+      }
+    },
+    "confusionMatrix": [
+      {
+        "groundTruthChar": "5",
+        "predictedChar": "S",
+        "count": 7
+      },
+      {
+        "groundTruthChar": "2",
+        "predictedChar": "Z",
+        "count": 5
+      },
+      {
+        "groundTruthChar": "A",
+        "predictedChar": "4",
+        "count": 4
+      },
+      {
+        "groundTruthChar": "1",
+        "predictedChar": "I",
+        "count": 4
+      },
+      {
+        "groundTruthChar": "0",
+        "predictedChar": "O",
+        "count": 4
+      },
+      {
+        "groundTruthChar": "J",
+        "predictedChar": "T",
+        "count": 4
+      },
+      {
+        "groundTruthChar": "9",
+        "predictedChar": "4",
+        "count": 3
+      },
+      {
+        "groundTruthChar": "Q",
+        "predictedChar": "O",
+        "count": 3
+      },
+      {
+        "groundTruthChar": "4",
+        "predictedChar": "0",
+        "count": 2
+      },
+      {
+        "groundTruthChar": "H",
+        "predictedChar": "4",
+        "count": 2
+      },
+      {
+        "groundTruthChar": "H",
+        "predictedChar": "K",
+        "count": 2
+      },
+      {
+        "groundTruthChar": "0",
+        "predictedChar": "4",
+        "count": 2
+      },
+      {
+        "groundTruthChar": "M",
+        "predictedChar": "0",
+        "count": 2
+      },
+      {
+        "groundTruthChar": "8",
+        "predictedChar": "9",
+        "count": 2
+      },
+      {
+        "groundTruthChar": "3",
+        "predictedChar": "0",
+        "count": 2
+      }
+    ],
+    "evalDetails": [
+      {
+        "filename": "real_286_angle.jpg",
+        "groundTruth": "22BH7942RU",
+        "predicted": "22BH7942RU",
+        "tag": "angle",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.99,
+        "latencyMs": 1222.92
+      },
+      {
+        "filename": "real_075_blur.jpg",
+        "groundTruth": "KL07CC8204",
+        "predicted": "KL07CC8204",
+        "tag": "blur",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.86,
+        "latencyMs": 1042.73
+      },
+      {
+        "filename": "real_230_rain.jpg",
+        "groundTruth": "MH39NS1317",
+        "predicted": "MH39NS1317",
+        "tag": "rain",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.62,
+        "latencyMs": 1034.07
+      },
+      {
+        "filename": "real_087_blur.jpg",
+        "groundTruth": "HR98DK9178",
+        "predicted": "HR98DK9178",
+        "tag": "blur",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.69,
+        "latencyMs": 997.63
+      },
+      {
+        "filename": "real_201_blur.jpg",
+        "groundTruth": "HR33SA1539",
+        "predicted": "HR33S4153",
+        "tag": "blur",
+        "isExactMatch": false,
+        "charAccuracy": 0.8,
+        "confidence": 0.55,
+        "latencyMs": 970.79
+      },
+      {
+        "filename": "real_184_angle.jpg",
+        "groundTruth": "AP84CA7150",
+        "predicted": "AP84CA7150",
+        "tag": "angle",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.99,
+        "latencyMs": 956.82
+      },
+      {
+        "filename": "real_029_dirty.jpg",
+        "groundTruth": "UP24H1043",
+        "predicted": "P71043",
+        "tag": "dirty",
+        "isExactMatch": false,
+        "charAccuracy": 0.0,
+        "confidence": 0.9,
+        "latencyMs": 863.36
+      },
+      {
+        "filename": "real_002_rain.jpg",
+        "groundTruth": "WB05JR4408",
+        "predicted": "WB05JR4408",
+        "tag": "rain",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.75,
+        "latencyMs": 1048.55
+      },
+      {
+        "filename": "real_141_blur.jpg",
+        "groundTruth": "AP17HC7589",
+        "predicted": "AP17HC7589",
+        "tag": "blur",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.56,
+        "latencyMs": 1029.02
+      },
+      {
+        "filename": "real_064_angle.jpg",
+        "groundTruth": "KL20L5045",
+        "predicted": "KL2OL5045",
+        "tag": "angle",
+        "isExactMatch": false,
+        "charAccuracy": 0.8889,
+        "confidence": 0.8,
+        "latencyMs": 1059.51
+      },
+      {
+        "filename": "real_262_angle.jpg",
+        "groundTruth": "MH15VQ5303",
+        "predicted": "MH15VQ5303",
+        "tag": "angle",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.96,
+        "latencyMs": 1046.32
+      },
+      {
+        "filename": "real_285_blur.jpg",
+        "groundTruth": "MH48AD6422",
+        "predicted": "HH484D6422",
+        "tag": "blur",
+        "isExactMatch": false,
+        "charAccuracy": 0.8,
+        "confidence": 0.22,
+        "latencyMs": 1135.1
+      },
+      {
+        "filename": "real_166_angle.jpg",
+        "groundTruth": "KA89L9157",
+        "predicted": "KA89L9157",
+        "tag": "angle",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.96,
+        "latencyMs": 1044.51
+      },
+      {
+        "filename": "real_274_angle.jpg",
+        "groundTruth": "KA65DJ3968",
+        "predicted": "KA65DJ3968",
+        "tag": "angle",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.96,
+        "latencyMs": 1159.39
+      },
+      {
+        "filename": "real_098_rain.jpg",
+        "groundTruth": "GJ17BP8509",
+        "predicted": "GJ17BP8509",
+        "tag": "rain",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.89,
+        "latencyMs": 1486.15
+      },
+      {
+        "filename": "real_200_rain.jpg",
+        "groundTruth": "MH32XX9410",
+        "predicted": "MH32XX9410",
+        "tag": "rain",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.85,
+        "latencyMs": 1535.43
+      },
+      {
+        "filename": "real_152_rain.jpg",
+        "groundTruth": "MH48HF3255",
+        "predicted": "04BH0325S",
+        "tag": "rain",
+        "isExactMatch": false,
+        "charAccuracy": 0.0,
+        "confidence": 0.63,
+        "latencyMs": 1502.4
+      },
+      {
+        "filename": "real_108_day.jpg",
+        "groundTruth": "MH91SR4919",
+        "predicted": "MH91SR4919",
+        "tag": "day",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.76,
+        "latencyMs": 1489.57
+      },
+      {
+        "filename": "real_257_dirty.jpg",
+        "groundTruth": "WB35X4350",
+        "predicted": "WB3CX4350",
+        "tag": "dirty",
+        "isExactMatch": false,
+        "charAccuracy": 0.8889,
+        "confidence": 0.28,
+        "latencyMs": 1440.98
+      },
+      {
+        "filename": "real_160_angle.jpg",
+        "groundTruth": "MH28E6373",
+        "predicted": "MH28E6373",
+        "tag": "angle",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.9,
+        "latencyMs": 1342.07
+      }
+    ]
+  },
+  "synthetic": {
+    "datasetName": "Synthetic Benchmark Set (120 images)",
+    "sampleCount": 120,
+    "exactMatchAccuracy": 62.5,
+    "characterLevelAccuracy": 92.74,
+    "avgLatencyMs": 1321.7,
+    "conditionBreakdown": {
+      "angle": {
+        "samples": 19,
+        "exactMatchAcc": 68.42,
+        "charLevelAcc": 92.63,
+        "avgLatencyMs": 1306.49
+      },
+      "blur": {
+        "samples": 23,
+        "exactMatchAcc": 60.87,
+        "charLevelAcc": 92.32,
+        "avgLatencyMs": 1363.2
+      },
+      "day": {
+        "samples": 17,
+        "exactMatchAcc": 76.47,
+        "charLevelAcc": 96.99,
+        "avgLatencyMs": 1298.34
+      },
+      "dirty": {
+        "samples": 24,
+        "exactMatchAcc": 29.17,
+        "charLevelAcc": 83.61,
+        "avgLatencyMs": 1322.94
+      },
+      "night": {
+        "samples": 21,
+        "exactMatchAcc": 80.95,
+        "charLevelAcc": 98.1,
+        "avgLatencyMs": 1304.6
+      },
+      "rain": {
+        "samples": 16,
+        "exactMatchAcc": 68.75,
+        "charLevelAcc": 95.62,
+        "avgLatencyMs": 1325.48
+      }
+    },
+    "confusionMatrix": [
+      {
+        "groundTruthChar": "0",
+        "predictedChar": "O",
+        "count": 7
+      },
+      {
+        "groundTruthChar": "5",
+        "predictedChar": "S",
+        "count": 4
+      },
+      {
+        "groundTruthChar": "9",
+        "predictedChar": "0",
+        "count": 3
+      },
+      {
+        "groundTruthChar": "Q",
+        "predictedChar": "O",
+        "count": 3
+      },
+      {
+        "groundTruthChar": "1",
+        "predictedChar": "I",
+        "count": 2
+      },
+      {
+        "groundTruthChar": "J",
+        "predictedChar": "T",
+        "count": 2
+      },
+      {
+        "groundTruthChar": "7",
+        "predictedChar": "2",
+        "count": 2
+      },
+      {
+        "groundTruthChar": "2",
+        "predictedChar": "Z",
+        "count": 2
+      },
+      {
+        "groundTruthChar": "K",
+        "predictedChar": "L",
+        "count": 1
+      },
+      {
+        "groundTruthChar": "K",
+        "predictedChar": "A",
+        "count": 1
+      },
+      {
+        "groundTruthChar": "L",
+        "predictedChar": "A",
+        "count": 1
+      },
+      {
+        "groundTruthChar": "L",
+        "predictedChar": "8",
+        "count": 1
+      },
+      {
+        "groundTruthChar": "L",
+        "predictedChar": "I",
+        "count": 1
+      },
+      {
+        "groundTruthChar": "4",
+        "predictedChar": "3",
+        "count": 1
+      },
+      {
+        "groundTruthChar": "3",
+        "predictedChar": "X",
+        "count": 1
+      }
+    ],
+    "evalDetails": [
+      {
+        "filename": "sample_000_day.jpg",
+        "groundTruth": "21BH3093ZC",
+        "predicted": "21BH3093ZC",
+        "tag": "day",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.98,
+        "latencyMs": 1297.21
+      },
+      {
+        "filename": "sample_001_blur.jpg",
+        "groundTruth": "KL43XR9005",
+        "predicted": "LA3XR9005",
+        "tag": "blur",
+        "isExactMatch": false,
+        "charAccuracy": 0.1,
+        "confidence": 0.5,
+        "latencyMs": 1481.9
+      },
+      {
+        "filename": "sample_002_dirty.jpg",
+        "groundTruth": "MH15R2113",
+        "predicted": "MH1SR2113",
+        "tag": "dirty",
+        "isExactMatch": false,
+        "charAccuracy": 0.8889,
+        "confidence": 0.87,
+        "latencyMs": 1264.28
+      },
+      {
+        "filename": "sample_003_angle.jpg",
+        "groundTruth": "KL29T4020",
+        "predicted": "KL29T4020",
+        "tag": "angle",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 1.0,
+        "latencyMs": 1384.5
+      },
+      {
+        "filename": "sample_004_rain.jpg",
+        "groundTruth": "AP70TE4623",
+        "predicted": "AP7OTE4623",
+        "tag": "rain",
+        "isExactMatch": false,
+        "charAccuracy": 0.9,
+        "confidence": 0.8,
+        "latencyMs": 1407.6
+      },
+      {
+        "filename": "sample_005_day.jpg",
+        "groundTruth": "KA97T6216",
+        "predicted": "KA97T6216",
+        "tag": "day",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.66,
+        "latencyMs": 1329.26
+      },
+      {
+        "filename": "sample_006_blur.jpg",
+        "groundTruth": "MH09R6665",
+        "predicted": "MH09R6665",
+        "tag": "blur",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.64,
+        "latencyMs": 1323.86
+      },
+      {
+        "filename": "sample_007_night.jpg",
+        "groundTruth": "KA95NW4930",
+        "predicted": "KA9SNW4930",
+        "tag": "night",
+        "isExactMatch": false,
+        "charAccuracy": 0.9,
+        "confidence": 0.87,
+        "latencyMs": 1454.25
+      },
+      {
+        "filename": "sample_008_blur.jpg",
+        "groundTruth": "AP06B5590",
+        "predicted": "AP06B5590",
+        "tag": "blur",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.95,
+        "latencyMs": 1311.74
+      },
+      {
+        "filename": "sample_009_dirty.jpg",
+        "groundTruth": "DL54P9048",
+        "predicted": "DL54P9048",
+        "tag": "dirty",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.6,
+        "latencyMs": 1303.99
+      },
+      {
+        "filename": "sample_010_night.jpg",
+        "groundTruth": "DL72X8220",
+        "predicted": "DL72X8220",
+        "tag": "night",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 1.0,
+        "latencyMs": 1334.12
+      },
+      {
+        "filename": "sample_011_blur.jpg",
+        "groundTruth": "MH87G9163",
+        "predicted": "MH87G9163",
+        "tag": "blur",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.69,
+        "latencyMs": 1424.33
+      },
+      {
+        "filename": "sample_012_dirty.jpg",
+        "groundTruth": "MH75UB9681",
+        "predicted": "MH75VB9681",
+        "tag": "dirty",
+        "isExactMatch": false,
+        "charAccuracy": 0.9,
+        "confidence": 0.33,
+        "latencyMs": 1276.31
+      },
+      {
+        "filename": "sample_013_night.jpg",
+        "groundTruth": "KA35H1023",
+        "predicted": "KA35H1023",
+        "tag": "night",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.83,
+        "latencyMs": 1401.84
+      },
+      {
+        "filename": "sample_014_rain.jpg",
+        "groundTruth": "TN63HT3899",
+        "predicted": "TN63HT3899",
+        "tag": "rain",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.97,
+        "latencyMs": 1438.5
+      },
+      {
+        "filename": "sample_015_night.jpg",
+        "groundTruth": "22BH3528SA",
+        "predicted": "22BH3528SA",
+        "tag": "night",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 1.0,
+        "latencyMs": 1305.47
+      },
+      {
+        "filename": "sample_016_angle.jpg",
+        "groundTruth": "KL39LC3082",
+        "predicted": "KL39LC3082",
+        "tag": "angle",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 1.0,
+        "latencyMs": 1291.72
+      },
+      {
+        "filename": "sample_017_angle.jpg",
+        "groundTruth": "KA56L8188",
+        "predicted": "AS6L8188",
+        "tag": "angle",
+        "isExactMatch": false,
+        "charAccuracy": 0.1111,
+        "confidence": 0.79,
+        "latencyMs": 1278.02
+      },
+      {
+        "filename": "sample_018_dirty.jpg",
+        "groundTruth": "KL71XC8633",
+        "predicted": "KL7YXC8653",
+        "tag": "dirty",
+        "isExactMatch": false,
+        "charAccuracy": 0.8,
+        "confidence": 0.28,
+        "latencyMs": 1408.75
+      },
+      {
+        "filename": "sample_019_day.jpg",
+        "groundTruth": "21BH1643UM",
+        "predicted": "21BH1643UM",
+        "tag": "day",
+        "isExactMatch": true,
+        "charAccuracy": 1.0,
+        "confidence": 0.99,
+        "latencyMs": 1247.92
+      }
+    ]
+  },
+  "datasetType": "Real-Photo Held-Out Test Set + Synthetic Benchmark",
+  "sampleCount": 150,
+  "exactMatchAccuracy": 58.0,
+  "characterLevelAccuracy": 82.59,
+  "avgLatencyMs": 1581.03,
+  "conditionBreakdown": {
+    "angle": {
+      "samples": 25,
+      "exactMatchAcc": 88.0,
+      "charLevelAcc": 98.76,
+      "avgLatencyMs": 1419.56
+    },
+    "blur": {
+      "samples": 24,
+      "exactMatchAcc": 54.17,
+      "charLevelAcc": 91.99,
+      "avgLatencyMs": 1799.17
+    },
+    "day": {
+      "samples": 22,
+      "exactMatchAcc": 86.36,
+      "charLevelAcc": 98.59,
+      "avgLatencyMs": 1561.88
+    },
+    "dirty": {
+      "samples": 28,
+      "exactMatchAcc": 3.57,
+      "charLevelAcc": 27.1,
+      "avgLatencyMs": 1539.85
+    },
+    "night": {
+      "samples": 23,
+      "exactMatchAcc": 60.87,
+      "charLevelAcc": 95.94,
+      "avgLatencyMs": 1606.67
+    },
+    "rain": {
+      "samples": 28,
+      "exactMatchAcc": 64.29,
+      "charLevelAcc": 92.02,
+      "avgLatencyMs": 1573.38
+    }
+  },
+  "confusionMatrix": [
+    {
+      "groundTruthChar": "5",
+      "predictedChar": "S",
+      "count": 7
+    },
+    {
+      "groundTruthChar": "2",
+      "predictedChar": "Z",
+      "count": 5
+    },
+    {
+      "groundTruthChar": "A",
+      "predictedChar": "4",
+      "count": 4
+    },
+    {
+      "groundTruthChar": "1",
+      "predictedChar": "I",
+      "count": 4
+    },
+    {
+      "groundTruthChar": "0",
+      "predictedChar": "O",
+      "count": 4
+    },
+    {
+      "groundTruthChar": "J",
+      "predictedChar": "T",
+      "count": 4
+    },
+    {
+      "groundTruthChar": "9",
+      "predictedChar": "4",
+      "count": 3
+    },
+    {
+      "groundTruthChar": "Q",
+      "predictedChar": "O",
+      "count": 3
+    },
+    {
+      "groundTruthChar": "4",
+      "predictedChar": "0",
+      "count": 2
+    },
+    {
+      "groundTruthChar": "H",
+      "predictedChar": "4",
+      "count": 2
+    },
+    {
+      "groundTruthChar": "H",
+      "predictedChar": "K",
+      "count": 2
+    },
+    {
+      "groundTruthChar": "0",
+      "predictedChar": "4",
+      "count": 2
+    },
+    {
+      "groundTruthChar": "M",
+      "predictedChar": "0",
+      "count": 2
+    },
+    {
+      "groundTruthChar": "8",
+      "predictedChar": "9",
+      "count": 2
+    },
+    {
+      "groundTruthChar": "3",
+      "predictedChar": "0",
+      "count": 2
+    }
+  ],
+  "evalDetails": [
+    {
+      "filename": "real_286_angle.jpg",
+      "groundTruth": "22BH7942RU",
+      "predicted": "22BH7942RU",
+      "tag": "angle",
+      "isExactMatch": true,
+      "charAccuracy": 1.0,
+      "confidence": 0.99,
+      "latencyMs": 1222.92
+    },
+    {
+      "filename": "real_075_blur.jpg",
+      "groundTruth": "KL07CC8204",
+      "predicted": "KL07CC8204",
+      "tag": "blur",
+      "isExactMatch": true,
+      "charAccuracy": 1.0,
+      "confidence": 0.86,
+      "latencyMs": 1042.73
+    },
+    {
+      "filename": "real_230_rain.jpg",
+      "groundTruth": "MH39NS1317",
+      "predicted": "MH39NS1317",
+      "tag": "rain",
+      "isExactMatch": true,
+      "charAccuracy": 1.0,
+      "confidence": 0.62,
+      "latencyMs": 1034.07
+    },
+    {
+      "filename": "real_087_blur.jpg",
+      "groundTruth": "HR98DK9178",
+      "predicted": "HR98DK9178",
+      "tag": "blur",
+      "isExactMatch": true,
+      "charAccuracy": 1.0,
+      "confidence": 0.69,
+      "latencyMs": 997.63
+    },
+    {
+      "filename": "real_201_blur.jpg",
+      "groundTruth": "HR33SA1539",
+      "predicted": "HR33S4153",
+      "tag": "blur",
+      "isExactMatch": false,
+      "charAccuracy": 0.8,
+      "confidence": 0.55,
+      "latencyMs": 970.79
+    },
+    {
+      "filename": "real_184_angle.jpg",
+      "groundTruth": "AP84CA7150",
+      "predicted": "AP84CA7150",
+      "tag": "angle",
+      "isExactMatch": true,
+      "charAccuracy": 1.0,
+      "confidence": 0.99,
+      "latencyMs": 956.82
+    },
+    {
+      "filename": "real_029_dirty.jpg",
+      "groundTruth": "UP24H1043",
+      "predicted": "P71043",
+      "tag": "dirty",
+      "isExactMatch": false,
+      "charAccuracy": 0.0,
+      "confidence": 0.9,
+      "latencyMs": 863.36
+    },
+    {
+      "filename": "real_002_rain.jpg",
+      "groundTruth": "WB05JR4408",
+      "predicted": "WB05JR4408",
+      "tag": "rain",
+      "isExactMatch": true,
+      "charAccuracy": 1.0,
+      "confidence": 0.75,
+      "latencyMs": 1048.55
+    },
+    {
+      "filename": "real_141_blur.jpg",
+      "groundTruth": "AP17HC7589",
+      "predicted": "AP17HC7589",
+      "tag": "blur",
+      "isExactMatch": true,
+      "charAccuracy": 1.0,
+      "confidence": 0.56,
+      "latencyMs": 1029.02
+    },
+    {
+      "filename": "real_064_angle.jpg",
+      "groundTruth": "KL20L5045",
+      "predicted": "KL2OL5045",
+      "tag": "angle",
+      "isExactMatch": false,
+      "charAccuracy": 0.8889,
+      "confidence": 0.8,
+      "latencyMs": 1059.51
+    },
+    {
+      "filename": "real_262_angle.jpg",
+      "groundTruth": "MH15VQ5303",
+      "predicted": "MH15VQ5303",
+      "tag": "angle",
+      "isExactMatch": true,
+      "charAccuracy": 1.0,
+      "confidence": 0.96,
+      "latencyMs": 1046.32
+    },
+    {
+      "filename": "real_285_blur.jpg",
+      "groundTruth": "MH48AD6422",
+      "predicted": "HH484D6422",
+      "tag": "blur",
+      "isExactMatch": false,
+      "charAccuracy": 0.8,
+      "confidence": 0.22,
+      "latencyMs": 1135.1
+    },
+    {
+      "filename": "real_166_angle.jpg",
+      "groundTruth": "KA89L9157",
+      "predicted": "KA89L9157",
+      "tag": "angle",
+      "isExactMatch": true,
+      "charAccuracy": 1.0,
+      "confidence": 0.96,
+      "latencyMs": 1044.51
+    },
+    {
+      "filename": "real_274_angle.jpg",
+      "groundTruth": "KA65DJ3968",
+      "predicted": "KA65DJ3968",
+      "tag": "angle",
+      "isExactMatch": true,
+      "charAccuracy": 1.0,
+      "confidence": 0.96,
+      "latencyMs": 1159.39
+    },
+    {
+      "filename": "real_098_rain.jpg",
+      "groundTruth": "GJ17BP8509",
+      "predicted": "GJ17BP8509",
+      "tag": "rain",
+      "isExactMatch": true,
+      "charAccuracy": 1.0,
+      "confidence": 0.89,
+      "latencyMs": 1486.15
+    },
+    {
+      "filename": "real_200_rain.jpg",
+      "groundTruth": "MH32XX9410",
+      "predicted": "MH32XX9410",
+      "tag": "rain",
+      "isExactMatch": true,
+      "charAccuracy": 1.0,
+      "confidence": 0.85,
+      "latencyMs": 1535.43
+    },
+    {
+      "filename": "real_152_rain.jpg",
+      "groundTruth": "MH48HF3255",
+      "predicted": "04BH0325S",
+      "tag": "rain",
+      "isExactMatch": false,
+      "charAccuracy": 0.0,
+      "confidence": 0.63,
+      "latencyMs": 1502.4
+    },
+    {
+      "filename": "real_108_day.jpg",
+      "groundTruth": "MH91SR4919",
+      "predicted": "MH91SR4919",
+      "tag": "day",
+      "isExactMatch": true,
+      "charAccuracy": 1.0,
+      "confidence": 0.76,
+      "latencyMs": 1489.57
+    },
+    {
+      "filename": "real_257_dirty.jpg",
+      "groundTruth": "WB35X4350",
+      "predicted": "WB3CX4350",
+      "tag": "dirty",
+      "isExactMatch": false,
+      "charAccuracy": 0.8889,
+      "confidence": 0.28,
+      "latencyMs": 1440.98
+    },
+    {
+      "filename": "real_160_angle.jpg",
+      "groundTruth": "MH28E6373",
+      "predicted": "MH28E6373",
+      "tag": "angle",
+      "isExactMatch": true,
+      "charAccuracy": 1.0,
+      "confidence": 0.9,
+      "latencyMs": 1342.07
+    }
+  ]
+}

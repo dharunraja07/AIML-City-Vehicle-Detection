@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-09-29 20:41:52",
+  "sampleCount": 40,
+  "results": [
+    {
+      "configName": "1. EasyOCR Baseline",
+      "exactMatchAcc": 42.5,
+      "avgLatencyMs": 166.12
+    },
+    {
+      "configName": "2. + Upscale (Bicubic x3)",
+      "exactMatchAcc": 45.0,
+      "avgLatencyMs": 1096.95
+    },
+    {
+      "configName": "3. + TTA (Multi-Variant)",
+      "exactMatchAcc": 35.0,
+      "avgLatencyMs": 1191.95
+    },
+    {
+      "configName": "4. + Postprocessor (Grammar)",
+      "exactMatchAcc": 40.0,
+      "avgLatencyMs": 1171.2
+    },
+    {
+      "configName": "5. Fast-Plate-OCR Alone",
+      "exactMatchAcc": 0.0,
+      "avgLatencyMs": 0.0
+    },
+    {
+      "configName": "6. Fast-Plate-OCR + Postproc",
+      "exactMatchAcc": 0.0,
+      "avgLatencyMs": 0.0
+    }
+  ]
+}

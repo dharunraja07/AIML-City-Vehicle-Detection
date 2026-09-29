@@ -1,0 +1,13 @@
+fastapi==0.141.1
+uvicorn==0.54.0
+opencv-python-headless==5.0.0.93
+numpy==2.3.4
+pillow==12.1.1
+pydantic==2.13.5
+python-multipart==0.0.32
+ultralytics==8.4.165
+easyocr==1.7.2
+pytest==9.1.1
+matplotlib==3.10.7
+fast-plate-ocr==1.1.0
+onnxruntime==1.30.0
