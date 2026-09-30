@@ -1,0 +1,1926 @@
+{
+  "datasetName": "Untouched Original Held-Out Indian License Plate Set (240 distinct plates)",
+  "totalCount": 240,
+  "samples": [
+    {
+      "photoId": 0,
+      "filename": "orig_0000_day.jpg",
+      "groundTruth": "OD17AN6259",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 10,
+      "filename": "orig_0010_blur.jpg",
+      "groundTruth": "HR84UP5708",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 20,
+      "filename": "orig_0020_jpeg_noise.jpg",
+      "groundTruth": "21BH1181FF",
+      "tag": "jpeg_noise",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 21,
+      "filename": "orig_0021_day.jpg",
+      "groundTruth": "20BH4595PZ",
+      "tag": "day",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 37,
+      "filename": "orig_0037_rain.jpg",
+      "groundTruth": "20BH7015BG",
+      "tag": "rain",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 47,
+      "filename": "orig_0047_dirty.jpg",
+      "groundTruth": "LD81RH3888",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 57,
+      "filename": "orig_0057_night.jpg",
+      "groundTruth": "PY12L6085",
+      "tag": "night",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 83,
+      "filename": "orig_0083_jpeg_noise.jpg",
+      "groundTruth": "20BH4880FY",
+      "tag": "jpeg_noise",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 101,
+      "filename": "orig_0101_blur.jpg",
+      "groundTruth": "UP93TQ4029",
+      "tag": "blur",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 103,
+      "filename": "orig_0103_dirty.jpg",
+      "groundTruth": "AR28TP7572",
+      "tag": "dirty",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 104,
+      "filename": "orig_0104_jpeg_noise.jpg",
+      "groundTruth": "AR98W3834",
+      "tag": "jpeg_noise",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 105,
+      "filename": "orig_0105_day.jpg",
+      "groundTruth": "UP66F3366",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 111,
+      "filename": "orig_0111_jpeg_noise.jpg",
+      "groundTruth": "KL52YY4422",
+      "tag": "jpeg_noise",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 135,
+      "filename": "orig_0135_rain.jpg",
+      "groundTruth": "BR31BD5346",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 137,
+      "filename": "orig_0137_angle.jpg",
+      "groundTruth": "PY47NA2711",
+      "tag": "angle",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 139,
+      "filename": "orig_0139_jpeg_noise.jpg",
+      "groundTruth": "GA67AJ4590",
+      "tag": "jpeg_noise",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 182,
+      "filename": "orig_0182_day.jpg",
+      "groundTruth": "CG24GG4977",
+      "tag": "day",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 185,
+      "filename": "orig_0185_blur.jpg",
+      "groundTruth": "JH52KD1291",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 197,
+      "filename": "orig_0197_night.jpg",
+      "groundTruth": "22BH7488JL",
+      "tag": "night",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 200,
+      "filename": "orig_0200_angle.jpg",
+      "groundTruth": "24BH1898CF",
+      "tag": "angle",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 210,
+      "filename": "orig_0210_day.jpg",
+      "groundTruth": "20BH5589WV",
+      "tag": "day",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 263,
+      "filename": "orig_0263_angle.jpg",
+      "groundTruth": "SK89SC6333",
+      "tag": "angle",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 284,
+      "filename": "orig_0284_angle.jpg",
+      "groundTruth": "TR82M3720",
+      "tag": "angle",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 300,
+      "filename": "orig_0300_jpeg_noise.jpg",
+      "groundTruth": "OD86KN4462",
+      "tag": "jpeg_noise",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 312,
+      "filename": "orig_0312_angle.jpg",
+      "groundTruth": "KL15EV8381",
+      "tag": "angle",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 322,
+      "filename": "orig_0322_day.jpg",
+      "groundTruth": "UP84R2376",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 330,
+      "filename": "orig_0330_night.jpg",
+      "groundTruth": "AP90J7815",
+      "tag": "night",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 340,
+      "filename": "orig_0340_angle.jpg",
+      "groundTruth": "HP57TS2719",
+      "tag": "angle",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 345,
+      "filename": "orig_0345_rain.jpg",
+      "groundTruth": "PY24WV3683",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 367,
+      "filename": "orig_0367_blur.jpg",
+      "groundTruth": "22BH3708DD",
+      "tag": "blur",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 371,
+      "filename": "orig_0371_day.jpg",
+      "groundTruth": "22BH8947WV",
+      "tag": "day",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 377,
+      "filename": "orig_0377_jpeg_noise.jpg",
+      "groundTruth": "MZ24T9299",
+      "tag": "jpeg_noise",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 381,
+      "filename": "orig_0381_blur.jpg",
+      "groundTruth": "MZ32ZB5772",
+      "tag": "blur",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 387,
+      "filename": "orig_0387_rain.jpg",
+      "groundTruth": "UK67MW6395",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 395,
+      "filename": "orig_0395_blur.jpg",
+      "groundTruth": "MZ41N6865",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 401,
+      "filename": "orig_0401_rain.jpg",
+      "groundTruth": "AP61K8040",
+      "tag": "rain",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 402,
+      "filename": "orig_0402_blur.jpg",
+      "groundTruth": "KL11BQ7524",
+      "tag": "blur",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 420,
+      "filename": "orig_0420_day.jpg",
+      "groundTruth": "HP29R6412",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 434,
+      "filename": "orig_0434_day.jpg",
+      "groundTruth": "CH03FC1853",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 453,
+      "filename": "orig_0453_dirty.jpg",
+      "groundTruth": "MH96NL4768",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 476,
+      "filename": "orig_0476_day.jpg",
+      "groundTruth": "21BH4800TE",
+      "tag": "day",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 487,
+      "filename": "orig_0487_angle.jpg",
+      "groundTruth": "24BH8095TF",
+      "tag": "angle",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 491,
+      "filename": "orig_0491_night.jpg",
+      "groundTruth": "22BH3465CB",
+      "tag": "night",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 494,
+      "filename": "orig_0494_angle.jpg",
+      "groundTruth": "AN94D3971",
+      "tag": "angle",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 497,
+      "filename": "orig_0497_day.jpg",
+      "groundTruth": "MH84E7959",
+      "tag": "day",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 499,
+      "filename": "orig_0499_rain.jpg",
+      "groundTruth": "22BH1023WW",
+      "tag": "rain",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 528,
+      "filename": "orig_0528_blur.jpg",
+      "groundTruth": "WB54TV5003",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 537,
+      "filename": "orig_0537_dirty.jpg",
+      "groundTruth": "DN19N9919",
+      "tag": "dirty",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 552,
+      "filename": "orig_0552_jpeg_noise.jpg",
+      "groundTruth": "AN36PB9738",
+      "tag": "jpeg_noise",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 554,
+      "filename": "orig_0554_night.jpg",
+      "groundTruth": "UK75CK9753",
+      "tag": "night",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 564,
+      "filename": "orig_0564_angle.jpg",
+      "groundTruth": "WB42A4144",
+      "tag": "angle",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 577,
+      "filename": "orig_0577_blur.jpg",
+      "groundTruth": "AS21EQ9587",
+      "tag": "blur",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 583,
+      "filename": "orig_0583_rain.jpg",
+      "groundTruth": "TN08F6551",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 599,
+      "filename": "orig_0599_angle.jpg",
+      "groundTruth": "25BH7562RC",
+      "tag": "angle",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 608,
+      "filename": "orig_0608_jpeg_noise.jpg",
+      "groundTruth": "AP23RF6669",
+      "tag": "jpeg_noise",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 613,
+      "filename": "orig_0613_angle.jpg",
+      "groundTruth": "UP72V2579",
+      "tag": "angle",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 630,
+      "filename": "orig_0630_day.jpg",
+      "groundTruth": "AR76NV5768",
+      "tag": "day",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 633,
+      "filename": "orig_0633_blur.jpg",
+      "groundTruth": "NL03P5653",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 655,
+      "filename": "orig_0655_angle.jpg",
+      "groundTruth": "JH64T3020",
+      "tag": "angle",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 656,
+      "filename": "orig_0656_dirty.jpg",
+      "groundTruth": "WB60CC1088",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 699,
+      "filename": "orig_0699_jpeg_noise.jpg",
+      "groundTruth": "21BH8854BD",
+      "tag": "jpeg_noise",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 710,
+      "filename": "orig_0710_blur.jpg",
+      "groundTruth": "TS12V3774",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 715,
+      "filename": "orig_0715_night.jpg",
+      "groundTruth": "ML14NJ1732",
+      "tag": "night",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 724,
+      "filename": "orig_0724_blur.jpg",
+      "groundTruth": "AP30QA6991",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 747,
+      "filename": "orig_0747_dirty.jpg",
+      "groundTruth": "MN85G1796",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 749,
+      "filename": "orig_0749_day.jpg",
+      "groundTruth": "PY46CM9754",
+      "tag": "day",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 761,
+      "filename": "orig_0761_dirty.jpg",
+      "groundTruth": "NL37T8190",
+      "tag": "dirty",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 766,
+      "filename": "orig_0766_blur.jpg",
+      "groundTruth": "21BH5805HL",
+      "tag": "blur",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 772,
+      "filename": "orig_0772_rain.jpg",
+      "groundTruth": "MZ91KT4279",
+      "tag": "rain",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 797,
+      "filename": "orig_0797_jpeg_noise.jpg",
+      "groundTruth": "26BH1841CM",
+      "tag": "jpeg_noise",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 800,
+      "filename": "orig_0800_rain.jpg",
+      "groundTruth": "TS06ED8668",
+      "tag": "rain",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 805,
+      "filename": "orig_0805_day.jpg",
+      "groundTruth": "TR28U6573",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 814,
+      "filename": "orig_0814_rain.jpg",
+      "groundTruth": "CH74V9904",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 818,
+      "filename": "orig_0818_jpeg_noise.jpg",
+      "groundTruth": "PB37V1987",
+      "tag": "jpeg_noise",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 829,
+      "filename": "orig_0829_blur.jpg",
+      "groundTruth": "SK67Q8858",
+      "tag": "blur",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 847,
+      "filename": "orig_0847_day.jpg",
+      "groundTruth": "LA22Q3928",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 861,
+      "filename": "orig_0861_day.jpg",
+      "groundTruth": "MZ71Z6571",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 877,
+      "filename": "orig_0877_rain.jpg",
+      "groundTruth": "NL03Z7412",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 895,
+      "filename": "orig_0895_jpeg_noise.jpg",
+      "groundTruth": "MZ28J4964",
+      "tag": "jpeg_noise",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 913,
+      "filename": "orig_0913_blur.jpg",
+      "groundTruth": "UP02FZ8108",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 914,
+      "filename": "orig_0914_angle.jpg",
+      "groundTruth": "GA35T6701",
+      "tag": "angle",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 919,
+      "filename": "orig_0919_rain.jpg",
+      "groundTruth": "MP25NZ5982",
+      "tag": "rain",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 937,
+      "filename": "orig_0937_jpeg_noise.jpg",
+      "groundTruth": "OD09G7506",
+      "tag": "jpeg_noise",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 947,
+      "filename": "orig_0947_rain.jpg",
+      "groundTruth": "UP30V6390",
+      "tag": "rain",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 955,
+      "filename": "orig_0955_blur.jpg",
+      "groundTruth": "TS41NA3119",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 982,
+      "filename": "orig_0982_rain.jpg",
+      "groundTruth": "MH53QY4244",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1015,
+      "filename": "orig_1015_day.jpg",
+      "groundTruth": "CG91F9455",
+      "tag": "day",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1028,
+      "filename": "orig_1028_jpeg_noise.jpg",
+      "groundTruth": "LA32E9238",
+      "tag": "jpeg_noise",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1030,
+      "filename": "orig_1030_night.jpg",
+      "groundTruth": "UK28W7430",
+      "tag": "night",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1059,
+      "filename": "orig_1059_rain.jpg",
+      "groundTruth": "CG61PX4703",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1060,
+      "filename": "orig_1060_blur.jpg",
+      "groundTruth": "PY77QY3094",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1065,
+      "filename": "orig_1065_night.jpg",
+      "groundTruth": "KL23PS3359",
+      "tag": "night",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1079,
+      "filename": "orig_1079_night.jpg",
+      "groundTruth": "PY34YJ3226",
+      "tag": "night",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1091,
+      "filename": "orig_1091_jpeg_noise.jpg",
+      "groundTruth": "25BH1366TL",
+      "tag": "jpeg_noise",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1099,
+      "filename": "orig_1099_day.jpg",
+      "groundTruth": "22BH3456CH",
+      "tag": "day",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1101,
+      "filename": "orig_1101_rain.jpg",
+      "groundTruth": "RJ06XV6892",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1117,
+      "filename": "orig_1117_angle.jpg",
+      "groundTruth": "BR50N8506",
+      "tag": "angle",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1121,
+      "filename": "orig_1121_night.jpg",
+      "groundTruth": "KA49XA7234",
+      "tag": "night",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1176,
+      "filename": "orig_1176_day.jpg",
+      "groundTruth": "25BH2514CF",
+      "tag": "day",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1178,
+      "filename": "orig_1178_rain.jpg",
+      "groundTruth": "MP21VB1109",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1188,
+      "filename": "orig_1188_dirty.jpg",
+      "groundTruth": "MN59Y7725",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1190,
+      "filename": "orig_1190_day.jpg",
+      "groundTruth": "TR62QQ4754",
+      "tag": "day",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1196,
+      "filename": "orig_1196_jpeg_noise.jpg",
+      "groundTruth": "24BH6568NZ",
+      "tag": "jpeg_noise",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1205,
+      "filename": "orig_1205_night.jpg",
+      "groundTruth": "DN56AR1771",
+      "tag": "night",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1243,
+      "filename": "orig_1243_angle.jpg",
+      "groundTruth": "22BH2588BF",
+      "tag": "angle",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1248,
+      "filename": "orig_1248_rain.jpg",
+      "groundTruth": "AR66S8565",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1253,
+      "filename": "orig_1253_day.jpg",
+      "groundTruth": "26BH3233PX",
+      "tag": "day",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1260,
+      "filename": "orig_1260_day.jpg",
+      "groundTruth": "MN80BN5371",
+      "tag": "day",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1265,
+      "filename": "orig_1265_dirty.jpg",
+      "groundTruth": "CH47S4592",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1283,
+      "filename": "orig_1283_rain.jpg",
+      "groundTruth": "GJ26PB8625",
+      "tag": "rain",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1287,
+      "filename": "orig_1287_jpeg_noise.jpg",
+      "groundTruth": "DN80ZB5297",
+      "tag": "jpeg_noise",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1297,
+      "filename": "orig_1297_rain.jpg",
+      "groundTruth": "UP79K1488",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1308,
+      "filename": "orig_1308_jpeg_noise.jpg",
+      "groundTruth": "DN31L9536",
+      "tag": "jpeg_noise",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1334,
+      "filename": "orig_1334_angle.jpg",
+      "groundTruth": "AP70Z7646",
+      "tag": "angle",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1335,
+      "filename": "orig_1335_dirty.jpg",
+      "groundTruth": "MP78DP6460",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1342,
+      "filename": "orig_1342_dirty.jpg",
+      "groundTruth": "ML85PM7320",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1353,
+      "filename": "orig_1353_rain.jpg",
+      "groundTruth": "CG12HB5030",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1377,
+      "filename": "orig_1377_dirty.jpg",
+      "groundTruth": "OD53JZ7742",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1394,
+      "filename": "orig_1394_night.jpg",
+      "groundTruth": "LA42UL4730",
+      "tag": "night",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1409,
+      "filename": "orig_1409_rain.jpg",
+      "groundTruth": "JH58S7588",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1421,
+      "filename": "orig_1421_day.jpg",
+      "groundTruth": "MH57NE1899",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1424,
+      "filename": "orig_1424_blur.jpg",
+      "groundTruth": "MP15NH9835",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1441,
+      "filename": "orig_1441_jpeg_noise.jpg",
+      "groundTruth": "AN45V8631",
+      "tag": "jpeg_noise",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1447,
+      "filename": "orig_1447_dirty.jpg",
+      "groundTruth": "SK78Y7265",
+      "tag": "dirty",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1460,
+      "filename": "orig_1460_angle.jpg",
+      "groundTruth": "AP44SU8708",
+      "tag": "angle",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1463,
+      "filename": "orig_1463_day.jpg",
+      "groundTruth": "AP07BK1371",
+      "tag": "day",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1474,
+      "filename": "orig_1474_angle.jpg",
+      "groundTruth": "AS84QM2588",
+      "tag": "angle",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1489,
+      "filename": "orig_1489_dirty.jpg",
+      "groundTruth": "BR11T8520",
+      "tag": "dirty",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1510,
+      "filename": "orig_1510_dirty.jpg",
+      "groundTruth": "PY11V9686",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1516,
+      "filename": "orig_1516_angle.jpg",
+      "groundTruth": "DD94VK9523",
+      "tag": "angle",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1540,
+      "filename": "orig_1540_day.jpg",
+      "groundTruth": "TR68AA2971",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1541,
+      "filename": "orig_1541_night.jpg",
+      "groundTruth": "21BH4210ZM",
+      "tag": "night",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1569,
+      "filename": "orig_1569_night.jpg",
+      "groundTruth": "GA14F1535",
+      "tag": "night",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1594,
+      "filename": "orig_1594_dirty.jpg",
+      "groundTruth": "JH56DT3764",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1597,
+      "filename": "orig_1597_night.jpg",
+      "groundTruth": "CH22J9797",
+      "tag": "night",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1599,
+      "filename": "orig_1599_blur.jpg",
+      "groundTruth": "ML02A1240",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1627,
+      "filename": "orig_1627_blur.jpg",
+      "groundTruth": "AN51M1452",
+      "tag": "blur",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1630,
+      "filename": "orig_1630_jpeg_noise.jpg",
+      "groundTruth": "PY32UJ8125",
+      "tag": "jpeg_noise",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1633,
+      "filename": "orig_1633_rain.jpg",
+      "groundTruth": "GJ39K9503",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1634,
+      "filename": "orig_1634_blur.jpg",
+      "groundTruth": "CG15Y8221",
+      "tag": "blur",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1646,
+      "filename": "orig_1646_night.jpg",
+      "groundTruth": "26BH1232MK",
+      "tag": "night",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1671,
+      "filename": "orig_1671_dirty.jpg",
+      "groundTruth": "MZ66N2853",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1684,
+      "filename": "orig_1684_angle.jpg",
+      "groundTruth": "NL48DB1553",
+      "tag": "angle",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1687,
+      "filename": "orig_1687_day.jpg",
+      "groundTruth": "ML37XU1255",
+      "tag": "day",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1696,
+      "filename": "orig_1696_rain.jpg",
+      "groundTruth": "23BH4757ZD",
+      "tag": "rain",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1702,
+      "filename": "orig_1702_night.jpg",
+      "groundTruth": "LD35A2729",
+      "tag": "night",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1711,
+      "filename": "orig_1711_blur.jpg",
+      "groundTruth": "TR75VV9059",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1720,
+      "filename": "orig_1720_dirty.jpg",
+      "groundTruth": "AP07NL6277",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1722,
+      "filename": "orig_1722_day.jpg",
+      "groundTruth": "RJ38Z6915",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1729,
+      "filename": "orig_1729_day.jpg",
+      "groundTruth": "KA02KB8340",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1742,
+      "filename": "orig_1742_jpeg_noise.jpg",
+      "groundTruth": "ML02Y1571",
+      "tag": "jpeg_noise",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1743,
+      "filename": "orig_1743_day.jpg",
+      "groundTruth": "20BH1167BC",
+      "tag": "day",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1758,
+      "filename": "orig_1758_night.jpg",
+      "groundTruth": "GA93F3194",
+      "tag": "night",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1773,
+      "filename": "orig_1773_rain.jpg",
+      "groundTruth": "DN27CD4696",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1776,
+      "filename": "orig_1776_dirty.jpg",
+      "groundTruth": "RJ25J3287",
+      "tag": "dirty",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1778,
+      "filename": "orig_1778_day.jpg",
+      "groundTruth": "GA68E6120",
+      "tag": "day",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1795,
+      "filename": "orig_1795_blur.jpg",
+      "groundTruth": "RJ38DU3192",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1806,
+      "filename": "orig_1806_day.jpg",
+      "groundTruth": "CH93T8008",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1821,
+      "filename": "orig_1821_night.jpg",
+      "groundTruth": "MZ34PA1312",
+      "tag": "night",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1840,
+      "filename": "orig_1840_jpeg_noise.jpg",
+      "groundTruth": "NL40BJ5992",
+      "tag": "jpeg_noise",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1841,
+      "filename": "orig_1841_day.jpg",
+      "groundTruth": "PB46CJ2438",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1843,
+      "filename": "orig_1843_rain.jpg",
+      "groundTruth": "PB58MV3147",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1848,
+      "filename": "orig_1848_day.jpg",
+      "groundTruth": "TS83WH8169",
+      "tag": "day",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1850,
+      "filename": "orig_1850_rain.jpg",
+      "groundTruth": "DD87GS6212",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1855,
+      "filename": "orig_1855_day.jpg",
+      "groundTruth": "MP23Q4061",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1860,
+      "filename": "orig_1860_dirty.jpg",
+      "groundTruth": "KL01NG8966",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1871,
+      "filename": "orig_1871_rain.jpg",
+      "groundTruth": "LD41K9056",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1873,
+      "filename": "orig_1873_angle.jpg",
+      "groundTruth": "KA40YK9250",
+      "tag": "angle",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1874,
+      "filename": "orig_1874_dirty.jpg",
+      "groundTruth": "TR79Q7351",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1876,
+      "filename": "orig_1876_day.jpg",
+      "groundTruth": "23BH7841RV",
+      "tag": "day",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1879,
+      "filename": "orig_1879_blur.jpg",
+      "groundTruth": "OD86WX5877",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1888,
+      "filename": "orig_1888_dirty.jpg",
+      "groundTruth": "MH30YA7648",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1900,
+      "filename": "orig_1900_blur.jpg",
+      "groundTruth": "MN90NW9084",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1911,
+      "filename": "orig_1911_day.jpg",
+      "groundTruth": "HR85B6567",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1915,
+      "filename": "orig_1915_angle.jpg",
+      "groundTruth": "SK95QL7315",
+      "tag": "angle",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1922,
+      "filename": "orig_1922_angle.jpg",
+      "groundTruth": "25BH7132XV",
+      "tag": "angle",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1925,
+      "filename": "orig_1925_day.jpg",
+      "groundTruth": "MH61F9919",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1937,
+      "filename": "orig_1937_dirty.jpg",
+      "groundTruth": "KL95B6170",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1949,
+      "filename": "orig_1949_blur.jpg",
+      "groundTruth": "HP94S6451",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1961,
+      "filename": "orig_1961_night.jpg",
+      "groundTruth": "ML16EV7234",
+      "tag": "night",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 1962,
+      "filename": "orig_1962_rain.jpg",
+      "groundTruth": "22BH1858CW",
+      "tag": "rain",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1974,
+      "filename": "orig_1974_day.jpg",
+      "groundTruth": "AN87XK5997",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1981,
+      "filename": "orig_1981_day.jpg",
+      "groundTruth": "MN03R9605",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 1988,
+      "filename": "orig_1988_day.jpg",
+      "groundTruth": "SK70PD8087",
+      "tag": "day",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 2005,
+      "filename": "orig_2005_blur.jpg",
+      "groundTruth": "TR86Q9062",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2008,
+      "filename": "orig_2008_jpeg_noise.jpg",
+      "groundTruth": "KL58HU8634",
+      "tag": "jpeg_noise",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2010,
+      "filename": "orig_2010_night.jpg",
+      "groundTruth": "UP85LJ1269",
+      "tag": "night",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2011,
+      "filename": "orig_2011_rain.jpg",
+      "groundTruth": "HP61S7466",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2015,
+      "filename": "orig_2015_jpeg_noise.jpg",
+      "groundTruth": "KL54XH3403",
+      "tag": "jpeg_noise",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 2036,
+      "filename": "orig_2036_jpeg_noise.jpg",
+      "groundTruth": "LA11Y9976",
+      "tag": "jpeg_noise",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2038,
+      "filename": "orig_2038_night.jpg",
+      "groundTruth": "ML04M9902",
+      "tag": "night",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 2041,
+      "filename": "orig_2041_angle.jpg",
+      "groundTruth": "TN58CL7528",
+      "tag": "angle",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2055,
+      "filename": "orig_2055_angle.jpg",
+      "groundTruth": "ML39KQ7117",
+      "tag": "angle",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2058,
+      "filename": "orig_2058_day.jpg",
+      "groundTruth": "HR13EB4897",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2067,
+      "filename": "orig_2067_rain.jpg",
+      "groundTruth": "PY38YY3770",
+      "tag": "rain",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 2074,
+      "filename": "orig_2074_rain.jpg",
+      "groundTruth": "24BH5670EN",
+      "tag": "rain",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2079,
+      "filename": "orig_2079_day.jpg",
+      "groundTruth": "NL49L5811",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2090,
+      "filename": "orig_2090_angle.jpg",
+      "groundTruth": "NL99N3778",
+      "tag": "angle",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 2094,
+      "filename": "orig_2094_night.jpg",
+      "groundTruth": "AS81HR5722",
+      "tag": "night",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2096,
+      "filename": "orig_2096_blur.jpg",
+      "groundTruth": "AN71Z2379",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2101,
+      "filename": "orig_2101_night.jpg",
+      "groundTruth": "RJ43G7145",
+      "tag": "night",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2103,
+      "filename": "orig_2103_blur.jpg",
+      "groundTruth": "RJ22QC9968",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2110,
+      "filename": "orig_2110_blur.jpg",
+      "groundTruth": "GA73ZD8454",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2117,
+      "filename": "orig_2117_blur.jpg",
+      "groundTruth": "TN12SS1724",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2121,
+      "filename": "orig_2121_day.jpg",
+      "groundTruth": "PY54SL2925",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2127,
+      "filename": "orig_2127_jpeg_noise.jpg",
+      "groundTruth": "CH07S1453",
+      "tag": "jpeg_noise",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2128,
+      "filename": "orig_2128_day.jpg",
+      "groundTruth": "TS78U4753",
+      "tag": "day",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 2130,
+      "filename": "orig_2130_rain.jpg",
+      "groundTruth": "BR31N3105",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2141,
+      "filename": "orig_2141_jpeg_noise.jpg",
+      "groundTruth": "DD60PJ5860",
+      "tag": "jpeg_noise",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2143,
+      "filename": "orig_2143_night.jpg",
+      "groundTruth": "AN32Q2777",
+      "tag": "night",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2148,
+      "filename": "orig_2148_jpeg_noise.jpg",
+      "groundTruth": "23BH3192UH",
+      "tag": "jpeg_noise",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2149,
+      "filename": "orig_2149_day.jpg",
+      "groundTruth": "RJ02TP6692",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2159,
+      "filename": "orig_2159_blur.jpg",
+      "groundTruth": "HP37T3461",
+      "tag": "blur",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 2170,
+      "filename": "orig_2170_day.jpg",
+      "groundTruth": "CG63H5624",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2183,
+      "filename": "orig_2183_jpeg_noise.jpg",
+      "groundTruth": "UK44G9284",
+      "tag": "jpeg_noise",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2203,
+      "filename": "orig_2203_dirty.jpg",
+      "groundTruth": "KL16UZ6625",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2224,
+      "filename": "orig_2224_dirty.jpg",
+      "groundTruth": "DN84BB2398",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2234,
+      "filename": "orig_2234_night.jpg",
+      "groundTruth": "TS91SC4292",
+      "tag": "night",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2235,
+      "filename": "orig_2235_rain.jpg",
+      "groundTruth": "PB28AS1598",
+      "tag": "rain",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2238,
+      "filename": "orig_2238_dirty.jpg",
+      "groundTruth": "AR91V7773",
+      "tag": "dirty",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 2243,
+      "filename": "orig_2243_blur.jpg",
+      "groundTruth": "ML70W9759",
+      "tag": "blur",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 2245,
+      "filename": "orig_2245_dirty.jpg",
+      "groundTruth": "GA15R9888",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2271,
+      "filename": "orig_2271_blur.jpg",
+      "groundTruth": "PB98UP3194",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2272,
+      "filename": "orig_2272_angle.jpg",
+      "groundTruth": "20BH5449KY",
+      "tag": "angle",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2276,
+      "filename": "orig_2276_night.jpg",
+      "groundTruth": "TN51CB1950",
+      "tag": "night",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 2279,
+      "filename": "orig_2279_angle.jpg",
+      "groundTruth": "UP66C2543",
+      "tag": "angle",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2283,
+      "filename": "orig_2283_night.jpg",
+      "groundTruth": "KL92U5645",
+      "tag": "night",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2284,
+      "filename": "orig_2284_rain.jpg",
+      "groundTruth": "20BH2450CJ",
+      "tag": "rain",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2292,
+      "filename": "orig_2292_blur.jpg",
+      "groundTruth": "NL21TP4679",
+      "tag": "blur",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2302,
+      "filename": "orig_2302_jpeg_noise.jpg",
+      "groundTruth": "TN44AK8422",
+      "tag": "jpeg_noise",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 2310,
+      "filename": "orig_2310_day.jpg",
+      "groundTruth": "JH48P1645",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2322,
+      "filename": "orig_2322_dirty.jpg",
+      "groundTruth": "21BH4950SR",
+      "tag": "dirty",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2330,
+      "filename": "orig_2330_jpeg_noise.jpg",
+      "groundTruth": "20BH9344KT",
+      "tag": "jpeg_noise",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2337,
+      "filename": "orig_2337_jpeg_noise.jpg",
+      "groundTruth": "AS42M4450",
+      "tag": "jpeg_noise",
+      "plateType": "TWO_ROW",
+      "isTwoRow": true
+    },
+    {
+      "photoId": 2342,
+      "filename": "orig_2342_angle.jpg",
+      "groundTruth": "AR72PK1375",
+      "tag": "angle",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2345,
+      "filename": "orig_2345_day.jpg",
+      "groundTruth": "PY71MX7278",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2350,
+      "filename": "orig_2350_dirty.jpg",
+      "groundTruth": "AR21E2193",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2352,
+      "filename": "orig_2352_day.jpg",
+      "groundTruth": "RJ10JQ7823",
+      "tag": "day",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2364,
+      "filename": "orig_2364_dirty.jpg",
+      "groundTruth": "BR18NE3076",
+      "tag": "dirty",
+      "plateType": "STANDARD",
+      "isTwoRow": false
+    },
+    {
+      "photoId": 2395,
+      "filename": "orig_2395_night.jpg",
+      "groundTruth": "21BH9819YP",
+      "tag": "night",
+      "plateType": "BH_SERIES",
+      "isTwoRow": false
+    }
+  ]
+}

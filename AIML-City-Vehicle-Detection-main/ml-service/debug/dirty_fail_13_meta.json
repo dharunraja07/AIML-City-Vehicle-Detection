@@ -1,0 +1,8 @@
+{
+  "sampleIndex": 22,
+  "filename": "aug_photo_124_dirty.jpg",
+  "groundTruth": "TN45SN4067",
+  "rawOCR": "TSSN",
+  "correctedText": "TSSN",
+  "failureCauseDiagnosis": "Dark mud/dirt smudges merged character contours into background, causing OCR digit confusion."
+}

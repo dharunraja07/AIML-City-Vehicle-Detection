@@ -1,0 +1,8 @@
+{
+  "sampleIndex": 17,
+  "filename": "aug_photo_100_dirty.jpg",
+  "groundTruth": "TN91HE1667",
+  "rawOCR": "TIN31067",
+  "correctedText": "TIN31067",
+  "failureCauseDiagnosis": "Dark mud/dirt smudges merged character contours into background, causing OCR digit confusion."
+}

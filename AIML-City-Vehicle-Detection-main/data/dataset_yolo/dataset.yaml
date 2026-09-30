@@ -1,0 +1,7 @@
+path: C:/Users/Vaitheeswari/Downloads/AIML-City-Vehicle-Detection-main/AIML-City-Vehicle-Detection-main/data/dataset_yolo
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: license_plate
