@@ -1,0 +1,1810 @@
+{
+  "datasetName": "Real-Photo Indian License Plate Evaluation Dataset",
+  "totalCount": 300,
+  "tuningCount": 150,
+  "heldoutCount": 150,
+  "tuningSet": [
+    {
+      "filename": "real_106_angle.jpg",
+      "groundTruth": "KA03EP6678",
+      "tag": "angle",
+      "index": 106
+    },
+    {
+      "filename": "real_239_dirty.jpg",
+      "groundTruth": "MH59A5962",
+      "tag": "dirty",
+      "index": 239
+    },
+    {
+      "filename": "real_037_night.jpg",
+      "groundTruth": "GJ04A1090",
+      "tag": "night",
+      "index": 37
+    },
+    {
+      "filename": "real_089_dirty.jpg",
+      "groundTruth": "MH49KA5286",
+      "tag": "dirty",
+      "index": 89
+    },
+    {
+      "filename": "real_032_rain.jpg",
+      "groundTruth": "KA37H6677",
+      "tag": "rain",
+      "index": 32
+    },
+    {
+      "filename": "real_250_angle.jpg",
+      "groundTruth": "DL95L3121",
+      "tag": "angle",
+      "index": 250
+    },
+    {
+      "filename": "real_192_day.jpg",
+      "groundTruth": "DL82AZ7460",
+      "tag": "day",
+      "index": 192
+    },
+    {
+      "filename": "real_120_day.jpg",
+      "groundTruth": "GJ07A7114",
+      "tag": "day",
+      "index": 120
+    },
+    {
+      "filename": "real_019_night.jpg",
+      "groundTruth": "KL61HB6104",
+      "tag": "night",
+      "index": 19
+    },
+    {
+      "filename": "real_225_blur.jpg",
+      "groundTruth": "MH74SQ9484",
+      "tag": "blur",
+      "index": 225
+    },
+    {
+      "filename": "real_024_day.jpg",
+      "groundTruth": "HR97PJ7303",
+      "tag": "day",
+      "index": 24
+    },
+    {
+      "filename": "real_295_night.jpg",
+      "groundTruth": "21BH2828YK",
+      "tag": "night",
+      "index": 295
+    },
+    {
+      "filename": "real_103_night.jpg",
+      "groundTruth": "TN92FK8136",
+      "tag": "night",
+      "index": 103
+    },
+    {
+      "filename": "real_220_angle.jpg",
+      "groundTruth": "20BH7721ET",
+      "tag": "angle",
+      "index": 220
+    },
+    {
+      "filename": "real_205_night.jpg",
+      "groundTruth": "MH28U8964",
+      "tag": "night",
+      "index": 205
+    },
+    {
+      "filename": "real_297_blur.jpg",
+      "groundTruth": "22BH5086CF",
+      "tag": "blur",
+      "index": 297
+    },
+    {
+      "filename": "real_291_blur.jpg",
+      "groundTruth": "KA72C3326",
+      "tag": "blur",
+      "index": 291
+    },
+    {
+      "filename": "real_038_rain.jpg",
+      "groundTruth": "GJ12NN9044",
+      "tag": "rain",
+      "index": 38
+    },
+    {
+      "filename": "real_158_rain.jpg",
+      "groundTruth": "DL80EA5042",
+      "tag": "rain",
+      "index": 158
+    },
+    {
+      "filename": "real_173_dirty.jpg",
+      "groundTruth": "KL10HD7854",
+      "tag": "dirty",
+      "index": 173
+    },
+    {
+      "filename": "real_245_dirty.jpg",
+      "groundTruth": "HR85AU8565",
+      "tag": "dirty",
+      "index": 245
+    },
+    {
+      "filename": "real_001_night.jpg",
+      "groundTruth": "HR07EX1823",
+      "tag": "night",
+      "index": 1
+    },
+    {
+      "filename": "real_224_rain.jpg",
+      "groundTruth": "TN94XL6686",
+      "tag": "rain",
+      "index": 224
+    },
+    {
+      "filename": "real_251_dirty.jpg",
+      "groundTruth": "DL65SN3041",
+      "tag": "dirty",
+      "index": 251
+    },
+    {
+      "filename": "real_144_day.jpg",
+      "groundTruth": "UP51LZ9913",
+      "tag": "day",
+      "index": 144
+    },
+    {
+      "filename": "real_133_night.jpg",
+      "groundTruth": "UP37NF9507",
+      "tag": "night",
+      "index": 133
+    },
+    {
+      "filename": "real_246_day.jpg",
+      "groundTruth": "UP53AD7011",
+      "tag": "day",
+      "index": 246
+    },
+    {
+      "filename": "real_206_rain.jpg",
+      "groundTruth": "KL06EM6161",
+      "tag": "rain",
+      "index": 206
+    },
+    {
+      "filename": "real_086_rain.jpg",
+      "groundTruth": "UP24GB5922",
+      "tag": "rain",
+      "index": 86
+    },
+    {
+      "filename": "real_005_dirty.jpg",
+      "groundTruth": "KL21KH6242",
+      "tag": "dirty",
+      "index": 5
+    },
+    {
+      "filename": "real_283_night.jpg",
+      "groundTruth": "MH16Q3365",
+      "tag": "night",
+      "index": 283
+    },
+    {
+      "filename": "real_123_blur.jpg",
+      "groundTruth": "GJ40SM1720",
+      "tag": "blur",
+      "index": 123
+    },
+    {
+      "filename": "real_190_angle.jpg",
+      "groundTruth": "UP60RM8154",
+      "tag": "angle",
+      "index": 190
+    },
+    {
+      "filename": "real_034_angle.jpg",
+      "groundTruth": "WB68NJ1513",
+      "tag": "angle",
+      "index": 34
+    },
+    {
+      "filename": "real_231_blur.jpg",
+      "groundTruth": "UP55QY8039",
+      "tag": "blur",
+      "index": 231
+    },
+    {
+      "filename": "real_181_night.jpg",
+      "groundTruth": "KA26L3589",
+      "tag": "night",
+      "index": 181
+    },
+    {
+      "filename": "real_252_day.jpg",
+      "groundTruth": "UP74DR2500",
+      "tag": "day",
+      "index": 252
+    },
+    {
+      "filename": "real_107_dirty.jpg",
+      "groundTruth": "KA58CU8171",
+      "tag": "dirty",
+      "index": 107
+    },
+    {
+      "filename": "real_115_night.jpg",
+      "groundTruth": "KA75JL2607",
+      "tag": "night",
+      "index": 115
+    },
+    {
+      "filename": "real_048_day.jpg",
+      "groundTruth": "AP07J2632",
+      "tag": "day",
+      "index": 48
+    },
+    {
+      "filename": "real_253_night.jpg",
+      "groundTruth": "WB82EN2431",
+      "tag": "night",
+      "index": 253
+    },
+    {
+      "filename": "real_242_rain.jpg",
+      "groundTruth": "DL20D5317",
+      "tag": "rain",
+      "index": 242
+    },
+    {
+      "filename": "real_276_day.jpg",
+      "groundTruth": "WB55RX2749",
+      "tag": "day",
+      "index": 276
+    },
+    {
+      "filename": "real_073_night.jpg",
+      "groundTruth": "KL09RS1781",
+      "tag": "night",
+      "index": 73
+    },
+    {
+      "filename": "real_268_angle.jpg",
+      "groundTruth": "KA91N9641",
+      "tag": "angle",
+      "index": 268
+    },
+    {
+      "filename": "real_100_angle.jpg",
+      "groundTruth": "MH82Z3805",
+      "tag": "angle",
+      "index": 100
+    },
+    {
+      "filename": "real_261_blur.jpg",
+      "groundTruth": "KL60S3693",
+      "tag": "blur",
+      "index": 261
+    },
+    {
+      "filename": "real_159_blur.jpg",
+      "groundTruth": "DL42LU2715",
+      "tag": "blur",
+      "index": 159
+    },
+    {
+      "filename": "real_208_angle.jpg",
+      "groundTruth": "AP69XG6547",
+      "tag": "angle",
+      "index": 208
+    },
+    {
+      "filename": "real_055_night.jpg",
+      "groundTruth": "KA47FV6632",
+      "tag": "night",
+      "index": 55
+    },
+    {
+      "filename": "real_006_day.jpg",
+      "groundTruth": "TN54K3429",
+      "tag": "day",
+      "index": 6
+    },
+    {
+      "filename": "real_269_dirty.jpg",
+      "groundTruth": "AP36N9670",
+      "tag": "dirty",
+      "index": 269
+    },
+    {
+      "filename": "real_026_rain.jpg",
+      "groundTruth": "HR36FW2570",
+      "tag": "rain",
+      "index": 26
+    },
+    {
+      "filename": "real_233_dirty.jpg",
+      "groundTruth": "HR65HU7751",
+      "tag": "dirty",
+      "index": 233
+    },
+    {
+      "filename": "real_113_dirty.jpg",
+      "groundTruth": "KL70EZ1818",
+      "tag": "dirty",
+      "index": 113
+    },
+    {
+      "filename": "real_139_night.jpg",
+      "groundTruth": "KL98WK8334",
+      "tag": "night",
+      "index": 139
+    },
+    {
+      "filename": "real_153_blur.jpg",
+      "groundTruth": "WB19SP4514",
+      "tag": "blur",
+      "index": 153
+    },
+    {
+      "filename": "real_105_blur.jpg",
+      "groundTruth": "MH20DH1936",
+      "tag": "blur",
+      "index": 105
+    },
+    {
+      "filename": "real_284_rain.jpg",
+      "groundTruth": "KL56R9847",
+      "tag": "rain",
+      "index": 284
+    },
+    {
+      "filename": "real_189_blur.jpg",
+      "groundTruth": "KL78N3927",
+      "tag": "blur",
+      "index": 189
+    },
+    {
+      "filename": "real_232_angle.jpg",
+      "groundTruth": "TN25YH9774",
+      "tag": "angle",
+      "index": 232
+    },
+    {
+      "filename": "real_243_blur.jpg",
+      "groundTruth": "DL33Y4285",
+      "tag": "blur",
+      "index": 243
+    },
+    {
+      "filename": "real_046_angle.jpg",
+      "groundTruth": "22BH4949JH",
+      "tag": "angle",
+      "index": 46
+    },
+    {
+      "filename": "real_256_angle.jpg",
+      "groundTruth": "UP07EV1342",
+      "tag": "angle",
+      "index": 256
+    },
+    {
+      "filename": "real_228_day.jpg",
+      "groundTruth": "GJ94W2769",
+      "tag": "day",
+      "index": 228
+    },
+    {
+      "filename": "real_217_night.jpg",
+      "groundTruth": "UP60M4263",
+      "tag": "night",
+      "index": 217
+    },
+    {
+      "filename": "real_236_rain.jpg",
+      "groundTruth": "KL11U8750",
+      "tag": "rain",
+      "index": 236
+    },
+    {
+      "filename": "real_132_day.jpg",
+      "groundTruth": "DL54HE5758",
+      "tag": "day",
+      "index": 132
+    },
+    {
+      "filename": "real_065_dirty.jpg",
+      "groundTruth": "WB08FR8419",
+      "tag": "dirty",
+      "index": 65
+    },
+    {
+      "filename": "real_207_blur.jpg",
+      "groundTruth": "TN58PQ9248",
+      "tag": "blur",
+      "index": 207
+    },
+    {
+      "filename": "real_042_day.jpg",
+      "groundTruth": "TN89Z7530",
+      "tag": "day",
+      "index": 42
+    },
+    {
+      "filename": "real_131_dirty.jpg",
+      "groundTruth": "24BH9873NE",
+      "tag": "dirty",
+      "index": 131
+    },
+    {
+      "filename": "real_270_day.jpg",
+      "groundTruth": "TN88LJ5078",
+      "tag": "day",
+      "index": 270
+    },
+    {
+      "filename": "real_271_night.jpg",
+      "groundTruth": "WB71UP2361",
+      "tag": "night",
+      "index": 271
+    },
+    {
+      "filename": "real_227_dirty.jpg",
+      "groundTruth": "AP90BQ2432",
+      "tag": "dirty",
+      "index": 227
+    },
+    {
+      "filename": "real_009_blur.jpg",
+      "groundTruth": "HR52LD6824",
+      "tag": "blur",
+      "index": 9
+    },
+    {
+      "filename": "real_134_rain.jpg",
+      "groundTruth": "KA40Z4430",
+      "tag": "rain",
+      "index": 134
+    },
+    {
+      "filename": "real_099_blur.jpg",
+      "groundTruth": "AP15Q6081",
+      "tag": "blur",
+      "index": 99
+    },
+    {
+      "filename": "real_275_dirty.jpg",
+      "groundTruth": "HR10R5882",
+      "tag": "dirty",
+      "index": 275
+    },
+    {
+      "filename": "real_156_day.jpg",
+      "groundTruth": "KL27DS2812",
+      "tag": "day",
+      "index": 156
+    },
+    {
+      "filename": "real_266_rain.jpg",
+      "groundTruth": "DL96EN1858",
+      "tag": "rain",
+      "index": 266
+    },
+    {
+      "filename": "real_151_night.jpg",
+      "groundTruth": "KA31BU1466",
+      "tag": "night",
+      "index": 151
+    },
+    {
+      "filename": "real_157_night.jpg",
+      "groundTruth": "TN93H6562",
+      "tag": "night",
+      "index": 157
+    },
+    {
+      "filename": "real_222_day.jpg",
+      "groundTruth": "HR05TL2122",
+      "tag": "day",
+      "index": 222
+    },
+    {
+      "filename": "real_148_angle.jpg",
+      "groundTruth": "24BH5720RK",
+      "tag": "angle",
+      "index": 148
+    },
+    {
+      "filename": "real_210_day.jpg",
+      "groundTruth": "22BH6089MB",
+      "tag": "day",
+      "index": 210
+    },
+    {
+      "filename": "real_031_night.jpg",
+      "groundTruth": "KA54PA7915",
+      "tag": "night",
+      "index": 31
+    },
+    {
+      "filename": "real_288_day.jpg",
+      "groundTruth": "KA09G8861",
+      "tag": "day",
+      "index": 288
+    },
+    {
+      "filename": "real_299_dirty.jpg",
+      "groundTruth": "21BH2981WB",
+      "tag": "dirty",
+      "index": 299
+    },
+    {
+      "filename": "real_066_day.jpg",
+      "groundTruth": "WB52ZN2685",
+      "tag": "day",
+      "index": 66
+    },
+    {
+      "filename": "real_177_blur.jpg",
+      "groundTruth": "UP66J3431",
+      "tag": "blur",
+      "index": 177
+    },
+    {
+      "filename": "real_267_blur.jpg",
+      "groundTruth": "UP34V4182",
+      "tag": "blur",
+      "index": 267
+    },
+    {
+      "filename": "real_209_dirty.jpg",
+      "groundTruth": "DL71MW2959",
+      "tag": "dirty",
+      "index": 209
+    },
+    {
+      "filename": "real_085_night.jpg",
+      "groundTruth": "AP45YL5129",
+      "tag": "night",
+      "index": 85
+    },
+    {
+      "filename": "real_051_blur.jpg",
+      "groundTruth": "MH31AT8056",
+      "tag": "blur",
+      "index": 51
+    },
+    {
+      "filename": "real_138_day.jpg",
+      "groundTruth": "WB74EP2125",
+      "tag": "day",
+      "index": 138
+    },
+    {
+      "filename": "real_091_night.jpg",
+      "groundTruth": "KA80TP3844",
+      "tag": "night",
+      "index": 91
+    },
+    {
+      "filename": "real_241_night.jpg",
+      "groundTruth": "TN70H1963",
+      "tag": "night",
+      "index": 241
+    },
+    {
+      "filename": "real_088_angle.jpg",
+      "groundTruth": "22BH2176WD",
+      "tag": "angle",
+      "index": 88
+    },
+    {
+      "filename": "real_161_dirty.jpg",
+      "groundTruth": "KA20T3208",
+      "tag": "dirty",
+      "index": 161
+    },
+    {
+      "filename": "real_096_day.jpg",
+      "groundTruth": "KA60P4998",
+      "tag": "day",
+      "index": 96
+    },
+    {
+      "filename": "real_215_dirty.jpg",
+      "groundTruth": "HR44PG6175",
+      "tag": "dirty",
+      "index": 215
+    },
+    {
+      "filename": "real_212_rain.jpg",
+      "groundTruth": "MH26BA9135",
+      "tag": "rain",
+      "index": 212
+    },
+    {
+      "filename": "real_195_blur.jpg",
+      "groundTruth": "HR01BC3046",
+      "tag": "blur",
+      "index": 195
+    },
+    {
+      "filename": "real_077_dirty.jpg",
+      "groundTruth": "DL77B7823",
+      "tag": "dirty",
+      "index": 77
+    },
+    {
+      "filename": "real_146_rain.jpg",
+      "groundTruth": "WB67UJ7520",
+      "tag": "rain",
+      "index": 146
+    },
+    {
+      "filename": "real_033_blur.jpg",
+      "groundTruth": "UP94JK7206",
+      "tag": "blur",
+      "index": 33
+    },
+    {
+      "filename": "real_021_blur.jpg",
+      "groundTruth": "UP12AZ7198",
+      "tag": "blur",
+      "index": 21
+    },
+    {
+      "filename": "real_070_angle.jpg",
+      "groundTruth": "24BH6819XK",
+      "tag": "angle",
+      "index": 70
+    },
+    {
+      "filename": "real_060_day.jpg",
+      "groundTruth": "UP73SW5654",
+      "tag": "day",
+      "index": 60
+    },
+    {
+      "filename": "real_084_day.jpg",
+      "groundTruth": "UP55HF2179",
+      "tag": "day",
+      "index": 84
+    },
+    {
+      "filename": "real_124_angle.jpg",
+      "groundTruth": "DL68KM2648",
+      "tag": "angle",
+      "index": 124
+    },
+    {
+      "filename": "real_226_angle.jpg",
+      "groundTruth": "MH39E7262",
+      "tag": "angle",
+      "index": 226
+    },
+    {
+      "filename": "real_191_dirty.jpg",
+      "groundTruth": "MH35P8085",
+      "tag": "dirty",
+      "index": 191
+    },
+    {
+      "filename": "real_154_angle.jpg",
+      "groundTruth": "HR30QD7734",
+      "tag": "angle",
+      "index": 154
+    },
+    {
+      "filename": "real_280_angle.jpg",
+      "groundTruth": "KL82AX4606",
+      "tag": "angle",
+      "index": 280
+    },
+    {
+      "filename": "real_204_day.jpg",
+      "groundTruth": "DL25N2123",
+      "tag": "day",
+      "index": 204
+    },
+    {
+      "filename": "real_104_rain.jpg",
+      "groundTruth": "WB09PJ1626",
+      "tag": "rain",
+      "index": 104
+    },
+    {
+      "filename": "real_219_blur.jpg",
+      "groundTruth": "TN46Q7388",
+      "tag": "blur",
+      "index": 219
+    },
+    {
+      "filename": "real_260_rain.jpg",
+      "groundTruth": "UP51Q8545",
+      "tag": "rain",
+      "index": 260
+    },
+    {
+      "filename": "real_122_rain.jpg",
+      "groundTruth": "UP88MJ9867",
+      "tag": "rain",
+      "index": 122
+    },
+    {
+      "filename": "real_010_angle.jpg",
+      "groundTruth": "KA56S6008",
+      "tag": "angle",
+      "index": 10
+    },
+    {
+      "filename": "real_121_night.jpg",
+      "groundTruth": "WB11H4818",
+      "tag": "night",
+      "index": 121
+    },
+    {
+      "filename": "real_072_day.jpg",
+      "groundTruth": "MH36LG3612",
+      "tag": "day",
+      "index": 72
+    },
+    {
+      "filename": "real_281_dirty.jpg",
+      "groundTruth": "AP06F8185",
+      "tag": "dirty",
+      "index": 281
+    },
+    {
+      "filename": "real_030_day.jpg",
+      "groundTruth": "TN66GD2109",
+      "tag": "day",
+      "index": 30
+    },
+    {
+      "filename": "real_007_night.jpg",
+      "groundTruth": "GJ35GQ2985",
+      "tag": "night",
+      "index": 7
+    },
+    {
+      "filename": "real_061_night.jpg",
+      "groundTruth": "WB62L4842",
+      "tag": "night",
+      "index": 61
+    },
+    {
+      "filename": "real_078_day.jpg",
+      "groundTruth": "DL21TD3470",
+      "tag": "day",
+      "index": 78
+    },
+    {
+      "filename": "real_178_angle.jpg",
+      "groundTruth": "KL60UW5039",
+      "tag": "angle",
+      "index": 178
+    },
+    {
+      "filename": "real_223_night.jpg",
+      "groundTruth": "WB82GY1388",
+      "tag": "night",
+      "index": 223
+    },
+    {
+      "filename": "real_004_angle.jpg",
+      "groundTruth": "TN58F7676",
+      "tag": "angle",
+      "index": 4
+    },
+    {
+      "filename": "real_296_rain.jpg",
+      "groundTruth": "23BH8231LS",
+      "tag": "rain",
+      "index": 296
+    },
+    {
+      "filename": "real_082_angle.jpg",
+      "groundTruth": "AP38SK1014",
+      "tag": "angle",
+      "index": 82
+    },
+    {
+      "filename": "real_254_rain.jpg",
+      "groundTruth": "HR26M9974",
+      "tag": "rain",
+      "index": 254
+    },
+    {
+      "filename": "real_249_blur.jpg",
+      "groundTruth": "DL24RB6449",
+      "tag": "blur",
+      "index": 249
+    },
+    {
+      "filename": "real_244_angle.jpg",
+      "groundTruth": "HR34Q2428",
+      "tag": "angle",
+      "index": 244
+    },
+    {
+      "filename": "real_095_dirty.jpg",
+      "groundTruth": "WB65MM9331",
+      "tag": "dirty",
+      "index": 95
+    },
+    {
+      "filename": "real_170_rain.jpg",
+      "groundTruth": "MH70SV1110",
+      "tag": "rain",
+      "index": 170
+    },
+    {
+      "filename": "real_050_rain.jpg",
+      "groundTruth": "TN13YR7793",
+      "tag": "rain",
+      "index": 50
+    },
+    {
+      "filename": "real_255_blur.jpg",
+      "groundTruth": "GJ84QV2703",
+      "tag": "blur",
+      "index": 255
+    },
+    {
+      "filename": "real_076_angle.jpg",
+      "groundTruth": "KA62EB5695",
+      "tag": "angle",
+      "index": 76
+    },
+    {
+      "filename": "real_027_blur.jpg",
+      "groundTruth": "TN35MN6894",
+      "tag": "blur",
+      "index": 27
+    },
+    {
+      "filename": "real_129_blur.jpg",
+      "groundTruth": "WB98RW4635",
+      "tag": "blur",
+      "index": 129
+    },
+    {
+      "filename": "real_045_blur.jpg",
+      "groundTruth": "22BH4939ZH",
+      "tag": "blur",
+      "index": 45
+    },
+    {
+      "filename": "real_128_rain.jpg",
+      "groundTruth": "TN42FK2878",
+      "tag": "rain",
+      "index": 128
+    },
+    {
+      "filename": "real_247_night.jpg",
+      "groundTruth": "MH38FH3999",
+      "tag": "night",
+      "index": 247
+    },
+    {
+      "filename": "real_000_day.jpg",
+      "groundTruth": "AP22C5511",
+      "tag": "day",
+      "index": 0
+    },
+    {
+      "filename": "real_238_angle.jpg",
+      "groundTruth": "20BH9635YE",
+      "tag": "angle",
+      "index": 238
+    },
+    {
+      "filename": "real_168_day.jpg",
+      "groundTruth": "GJ52Q6638",
+      "tag": "day",
+      "index": 168
+    }
+  ],
+  "heldoutSet": [
+    {
+      "filename": "real_286_angle.jpg",
+      "groundTruth": "22BH7942RU",
+      "tag": "angle",
+      "index": 286
+    },
+    {
+      "filename": "real_075_blur.jpg",
+      "groundTruth": "KL07CC8204",
+      "tag": "blur",
+      "index": 75
+    },
+    {
+      "filename": "real_230_rain.jpg",
+      "groundTruth": "MH39NS1317",
+      "tag": "rain",
+      "index": 230
+    },
+    {
+      "filename": "real_087_blur.jpg",
+      "groundTruth": "HR98DK9178",
+      "tag": "blur",
+      "index": 87
+    },
+    {
+      "filename": "real_201_blur.jpg",
+      "groundTruth": "HR33SA1539",
+      "tag": "blur",
+      "index": 201
+    },
+    {
+      "filename": "real_184_angle.jpg",
+      "groundTruth": "AP84CA7150",
+      "tag": "angle",
+      "index": 184
+    },
+    {
+      "filename": "real_029_dirty.jpg",
+      "groundTruth": "UP24H1043",
+      "tag": "dirty",
+      "index": 29
+    },
+    {
+      "filename": "real_002_rain.jpg",
+      "groundTruth": "WB05JR4408",
+      "tag": "rain",
+      "index": 2
+    },
+    {
+      "filename": "real_141_blur.jpg",
+      "groundTruth": "AP17HC7589",
+      "tag": "blur",
+      "index": 141
+    },
+    {
+      "filename": "real_064_angle.jpg",
+      "groundTruth": "KL20L5045",
+      "tag": "angle",
+      "index": 64
+    },
+    {
+      "filename": "real_262_angle.jpg",
+      "groundTruth": "MH15VQ5303",
+      "tag": "angle",
+      "index": 262
+    },
+    {
+      "filename": "real_285_blur.jpg",
+      "groundTruth": "MH48AD6422",
+      "tag": "blur",
+      "index": 285
+    },
+    {
+      "filename": "real_166_angle.jpg",
+      "groundTruth": "KA89L9157",
+      "tag": "angle",
+      "index": 166
+    },
+    {
+      "filename": "real_274_angle.jpg",
+      "groundTruth": "KA65DJ3968",
+      "tag": "angle",
+      "index": 274
+    },
+    {
+      "filename": "real_098_rain.jpg",
+      "groundTruth": "GJ17BP8509",
+      "tag": "rain",
+      "index": 98
+    },
+    {
+      "filename": "real_200_rain.jpg",
+      "groundTruth": "MH32XX9410",
+      "tag": "rain",
+      "index": 200
+    },
+    {
+      "filename": "real_152_rain.jpg",
+      "groundTruth": "MH48HF3255",
+      "tag": "rain",
+      "index": 152
+    },
+    {
+      "filename": "real_108_day.jpg",
+      "groundTruth": "MH91SR4919",
+      "tag": "day",
+      "index": 108
+    },
+    {
+      "filename": "real_257_dirty.jpg",
+      "groundTruth": "WB35X4350",
+      "tag": "dirty",
+      "index": 257
+    },
+    {
+      "filename": "real_160_angle.jpg",
+      "groundTruth": "MH28E6373",
+      "tag": "angle",
+      "index": 160
+    },
+    {
+      "filename": "real_039_blur.jpg",
+      "groundTruth": "WB03E6504",
+      "tag": "blur",
+      "index": 39
+    },
+    {
+      "filename": "real_028_angle.jpg",
+      "groundTruth": "WB09RW5147",
+      "tag": "angle",
+      "index": 28
+    },
+    {
+      "filename": "real_298_angle.jpg",
+      "groundTruth": "MH08YK1210",
+      "tag": "angle",
+      "index": 298
+    },
+    {
+      "filename": "real_023_dirty.jpg",
+      "groundTruth": "HR18AT6397",
+      "tag": "dirty",
+      "index": 23
+    },
+    {
+      "filename": "real_126_day.jpg",
+      "groundTruth": "KL19GF8061",
+      "tag": "day",
+      "index": 126
+    },
+    {
+      "filename": "real_130_angle.jpg",
+      "groundTruth": "KA71Y3865",
+      "tag": "angle",
+      "index": 130
+    },
+    {
+      "filename": "real_187_night.jpg",
+      "groundTruth": "HR17G8006",
+      "tag": "night",
+      "index": 187
+    },
+    {
+      "filename": "real_211_night.jpg",
+      "groundTruth": "HR48AG4372",
+      "tag": "night",
+      "index": 211
+    },
+    {
+      "filename": "real_092_rain.jpg",
+      "groundTruth": "MH34VS8458",
+      "tag": "rain",
+      "index": 92
+    },
+    {
+      "filename": "real_202_angle.jpg",
+      "groundTruth": "DL97B6341",
+      "tag": "angle",
+      "index": 202
+    },
+    {
+      "filename": "real_182_rain.jpg",
+      "groundTruth": "GJ12AG2827",
+      "tag": "rain",
+      "index": 182
+    },
+    {
+      "filename": "real_109_night.jpg",
+      "groundTruth": "KA64W8898",
+      "tag": "night",
+      "index": 109
+    },
+    {
+      "filename": "real_149_dirty.jpg",
+      "groundTruth": "MH90N2616",
+      "tag": "dirty",
+      "index": 149
+    },
+    {
+      "filename": "real_188_rain.jpg",
+      "groundTruth": "22BH2329QY",
+      "tag": "rain",
+      "index": 188
+    },
+    {
+      "filename": "real_137_dirty.jpg",
+      "groundTruth": "GJ82N2405",
+      "tag": "dirty",
+      "index": 137
+    },
+    {
+      "filename": "real_143_dirty.jpg",
+      "groundTruth": "WB29P8081",
+      "tag": "dirty",
+      "index": 143
+    },
+    {
+      "filename": "real_259_night.jpg",
+      "groundTruth": "AP85F1695",
+      "tag": "night",
+      "index": 259
+    },
+    {
+      "filename": "real_035_dirty.jpg",
+      "groundTruth": "GJ44E9804",
+      "tag": "dirty",
+      "index": 35
+    },
+    {
+      "filename": "real_067_night.jpg",
+      "groundTruth": "KA51TN9539",
+      "tag": "night",
+      "index": 67
+    },
+    {
+      "filename": "real_036_day.jpg",
+      "groundTruth": "KA87F4534",
+      "tag": "day",
+      "index": 36
+    },
+    {
+      "filename": "real_117_blur.jpg",
+      "groundTruth": "GJ88JM2157",
+      "tag": "blur",
+      "index": 117
+    },
+    {
+      "filename": "real_164_rain.jpg",
+      "groundTruth": "DL41GA6931",
+      "tag": "rain",
+      "index": 164
+    },
+    {
+      "filename": "real_282_day.jpg",
+      "groundTruth": "AP33H9898",
+      "tag": "day",
+      "index": 282
+    },
+    {
+      "filename": "real_127_night.jpg",
+      "groundTruth": "UP95X9732",
+      "tag": "night",
+      "index": 127
+    },
+    {
+      "filename": "real_167_dirty.jpg",
+      "groundTruth": "KL91BE4065",
+      "tag": "dirty",
+      "index": 167
+    },
+    {
+      "filename": "real_199_night.jpg",
+      "groundTruth": "GJ67DU6566",
+      "tag": "night",
+      "index": 199
+    },
+    {
+      "filename": "real_203_dirty.jpg",
+      "groundTruth": "TN32JB9224",
+      "tag": "dirty",
+      "index": 203
+    },
+    {
+      "filename": "real_264_day.jpg",
+      "groundTruth": "GJ09J2975",
+      "tag": "day",
+      "index": 264
+    },
+    {
+      "filename": "real_145_night.jpg",
+      "groundTruth": "22BH2302SS",
+      "tag": "night",
+      "index": 145
+    },
+    {
+      "filename": "real_054_day.jpg",
+      "groundTruth": "KL28YT3896",
+      "tag": "day",
+      "index": 54
+    },
+    {
+      "filename": "real_289_night.jpg",
+      "groundTruth": "HR79G4325",
+      "tag": "night",
+      "index": 289
+    },
+    {
+      "filename": "real_278_rain.jpg",
+      "groundTruth": "DL15YT5732",
+      "tag": "rain",
+      "index": 278
+    },
+    {
+      "filename": "real_102_day.jpg",
+      "groundTruth": "TN86V7157",
+      "tag": "day",
+      "index": 102
+    },
+    {
+      "filename": "real_080_rain.jpg",
+      "groundTruth": "23BH1914UB",
+      "tag": "rain",
+      "index": 80
+    },
+    {
+      "filename": "real_008_rain.jpg",
+      "groundTruth": "KL29Y2416",
+      "tag": "rain",
+      "index": 8
+    },
+    {
+      "filename": "real_248_rain.jpg",
+      "groundTruth": "DL21DY4506",
+      "tag": "rain",
+      "index": 248
+    },
+    {
+      "filename": "real_014_rain.jpg",
+      "groundTruth": "DL03CF7126",
+      "tag": "rain",
+      "index": 14
+    },
+    {
+      "filename": "real_198_day.jpg",
+      "groundTruth": "UP51YT5598",
+      "tag": "day",
+      "index": 198
+    },
+    {
+      "filename": "real_196_angle.jpg",
+      "groundTruth": "AP64SW1119",
+      "tag": "angle",
+      "index": 196
+    },
+    {
+      "filename": "real_083_dirty.jpg",
+      "groundTruth": "22BH9835HT",
+      "tag": "dirty",
+      "index": 83
+    },
+    {
+      "filename": "real_175_night.jpg",
+      "groundTruth": "UP64QU3528",
+      "tag": "night",
+      "index": 175
+    },
+    {
+      "filename": "real_056_rain.jpg",
+      "groundTruth": "KL89N3753",
+      "tag": "rain",
+      "index": 56
+    },
+    {
+      "filename": "real_272_rain.jpg",
+      "groundTruth": "AP28K5342",
+      "tag": "rain",
+      "index": 272
+    },
+    {
+      "filename": "real_263_dirty.jpg",
+      "groundTruth": "HR85W5692",
+      "tag": "dirty",
+      "index": 263
+    },
+    {
+      "filename": "real_163_night.jpg",
+      "groundTruth": "WB74RG2299",
+      "tag": "night",
+      "index": 163
+    },
+    {
+      "filename": "real_069_blur.jpg",
+      "groundTruth": "TN75B9605",
+      "tag": "blur",
+      "index": 69
+    },
+    {
+      "filename": "real_240_day.jpg",
+      "groundTruth": "MH57RW2030",
+      "tag": "day",
+      "index": 240
+    },
+    {
+      "filename": "real_118_angle.jpg",
+      "groundTruth": "GJ81CC9982",
+      "tag": "angle",
+      "index": 118
+    },
+    {
+      "filename": "real_234_day.jpg",
+      "groundTruth": "KL13HG7613",
+      "tag": "day",
+      "index": 234
+    },
+    {
+      "filename": "real_062_rain.jpg",
+      "groundTruth": "21BH6196ZS",
+      "tag": "rain",
+      "index": 62
+    },
+    {
+      "filename": "real_186_day.jpg",
+      "groundTruth": "TN69JM4499",
+      "tag": "day",
+      "index": 186
+    },
+    {
+      "filename": "real_136_angle.jpg",
+      "groundTruth": "UP11YT2473",
+      "tag": "angle",
+      "index": 136
+    },
+    {
+      "filename": "real_043_night.jpg",
+      "groundTruth": "WB62V9001",
+      "tag": "night",
+      "index": 43
+    },
+    {
+      "filename": "real_237_blur.jpg",
+      "groundTruth": "MH21EN5170",
+      "tag": "blur",
+      "index": 237
+    },
+    {
+      "filename": "real_155_dirty.jpg",
+      "groundTruth": "KL77XE9886",
+      "tag": "dirty",
+      "index": 155
+    },
+    {
+      "filename": "real_018_day.jpg",
+      "groundTruth": "UP90DG5923",
+      "tag": "day",
+      "index": 18
+    },
+    {
+      "filename": "real_165_blur.jpg",
+      "groundTruth": "KA88DB6314",
+      "tag": "blur",
+      "index": 165
+    },
+    {
+      "filename": "real_273_blur.jpg",
+      "groundTruth": "22BH3466SA",
+      "tag": "blur",
+      "index": 273
+    },
+    {
+      "filename": "real_179_dirty.jpg",
+      "groundTruth": "MH95LN9455",
+      "tag": "dirty",
+      "index": 179
+    },
+    {
+      "filename": "real_068_rain.jpg",
+      "groundTruth": "MH77E4279",
+      "tag": "rain",
+      "index": 68
+    },
+    {
+      "filename": "real_171_blur.jpg",
+      "groundTruth": "GJ63B6704",
+      "tag": "blur",
+      "index": 171
+    },
+    {
+      "filename": "real_053_dirty.jpg",
+      "groundTruth": "UP93HV6044",
+      "tag": "dirty",
+      "index": 53
+    },
+    {
+      "filename": "real_090_day.jpg",
+      "groundTruth": "DL86F2051",
+      "tag": "day",
+      "index": 90
+    },
+    {
+      "filename": "real_094_angle.jpg",
+      "groundTruth": "TN94VC7123",
+      "tag": "angle",
+      "index": 94
+    },
+    {
+      "filename": "real_041_dirty.jpg",
+      "groundTruth": "HR60P2659",
+      "tag": "dirty",
+      "index": 41
+    },
+    {
+      "filename": "real_093_blur.jpg",
+      "groundTruth": "WB36S6193",
+      "tag": "blur",
+      "index": 93
+    },
+    {
+      "filename": "real_213_blur.jpg",
+      "groundTruth": "KL78UL1794",
+      "tag": "blur",
+      "index": 213
+    },
+    {
+      "filename": "real_162_day.jpg",
+      "groundTruth": "AP79B4558",
+      "tag": "day",
+      "index": 162
+    },
+    {
+      "filename": "real_116_rain.jpg",
+      "groundTruth": "GJ39EA1754",
+      "tag": "rain",
+      "index": 116
+    },
+    {
+      "filename": "real_294_day.jpg",
+      "groundTruth": "WB73X3963",
+      "tag": "day",
+      "index": 294
+    },
+    {
+      "filename": "real_097_night.jpg",
+      "groundTruth": "KA54V8215",
+      "tag": "night",
+      "index": 97
+    },
+    {
+      "filename": "real_025_night.jpg",
+      "groundTruth": "HR22N6437",
+      "tag": "night",
+      "index": 25
+    },
+    {
+      "filename": "real_221_dirty.jpg",
+      "groundTruth": "DL91RD3809",
+      "tag": "dirty",
+      "index": 221
+    },
+    {
+      "filename": "real_059_dirty.jpg",
+      "groundTruth": "UP56R1530",
+      "tag": "dirty",
+      "index": 59
+    },
+    {
+      "filename": "real_218_rain.jpg",
+      "groundTruth": "MH62EY4657",
+      "tag": "rain",
+      "index": 218
+    },
+    {
+      "filename": "real_020_rain.jpg",
+      "groundTruth": "GJ73JK3242",
+      "tag": "rain",
+      "index": 20
+    },
+    {
+      "filename": "real_074_rain.jpg",
+      "groundTruth": "HR01PA5573",
+      "tag": "rain",
+      "index": 74
+    },
+    {
+      "filename": "real_197_dirty.jpg",
+      "groundTruth": "AP10M4327",
+      "tag": "dirty",
+      "index": 197
+    },
+    {
+      "filename": "real_058_angle.jpg",
+      "groundTruth": "MH70Y3231",
+      "tag": "angle",
+      "index": 58
+    },
+    {
+      "filename": "real_169_night.jpg",
+      "groundTruth": "MH19PD9541",
+      "tag": "night",
+      "index": 169
+    },
+    {
+      "filename": "real_011_dirty.jpg",
+      "groundTruth": "DL65ET1710",
+      "tag": "dirty",
+      "index": 11
+    },
+    {
+      "filename": "real_017_dirty.jpg",
+      "groundTruth": "KL65UY7410",
+      "tag": "dirty",
+      "index": 17
+    },
+    {
+      "filename": "real_180_day.jpg",
+      "groundTruth": "KA18LT9080",
+      "tag": "day",
+      "index": 180
+    },
+    {
+      "filename": "real_265_night.jpg",
+      "groundTruth": "WB28FE4759",
+      "tag": "night",
+      "index": 265
+    },
+    {
+      "filename": "real_147_blur.jpg",
+      "groundTruth": "UP28MD8331",
+      "tag": "blur",
+      "index": 147
+    },
+    {
+      "filename": "real_185_dirty.jpg",
+      "groundTruth": "22BH5231QL",
+      "tag": "dirty",
+      "index": 185
+    },
+    {
+      "filename": "real_150_day.jpg",
+      "groundTruth": "MH02F7433",
+      "tag": "day",
+      "index": 150
+    },
+    {
+      "filename": "real_040_angle.jpg",
+      "groundTruth": "AP47QC8608",
+      "tag": "angle",
+      "index": 40
+    },
+    {
+      "filename": "real_193_night.jpg",
+      "groundTruth": "AP58P2846",
+      "tag": "night",
+      "index": 193
+    },
+    {
+      "filename": "real_063_blur.jpg",
+      "groundTruth": "DL69C6628",
+      "tag": "blur",
+      "index": 63
+    },
+    {
+      "filename": "real_235_night.jpg",
+      "groundTruth": "TN94NV5386",
+      "tag": "night",
+      "index": 235
+    },
+    {
+      "filename": "real_022_angle.jpg",
+      "groundTruth": "WB37LN3155",
+      "tag": "angle",
+      "index": 22
+    },
+    {
+      "filename": "real_135_blur.jpg",
+      "groundTruth": "HR99U5476",
+      "tag": "blur",
+      "index": 135
+    },
+    {
+      "filename": "real_176_rain.jpg",
+      "groundTruth": "AP16ZK8894",
+      "tag": "rain",
+      "index": 176
+    },
+    {
+      "filename": "real_183_blur.jpg",
+      "groundTruth": "TN78A6900",
+      "tag": "blur",
+      "index": 183
+    },
+    {
+      "filename": "real_049_night.jpg",
+      "groundTruth": "KA15NR6868",
+      "tag": "night",
+      "index": 49
+    },
+    {
+      "filename": "real_194_rain.jpg",
+      "groundTruth": "KL76RA9183",
+      "tag": "rain",
+      "index": 194
+    },
+    {
+      "filename": "real_287_dirty.jpg",
+      "groundTruth": "HR83WP8789",
+      "tag": "dirty",
+      "index": 287
+    },
+    {
+      "filename": "real_293_dirty.jpg",
+      "groundTruth": "GJ58CE9745",
+      "tag": "dirty",
+      "index": 293
+    },
+    {
+      "filename": "real_172_angle.jpg",
+      "groundTruth": "TN37ER8865",
+      "tag": "angle",
+      "index": 172
+    },
+    {
+      "filename": "real_110_rain.jpg",
+      "groundTruth": "DL48QK8725",
+      "tag": "rain",
+      "index": 110
+    },
+    {
+      "filename": "real_079_night.jpg",
+      "groundTruth": "KL55F7391",
+      "tag": "night",
+      "index": 79
+    },
+    {
+      "filename": "real_277_night.jpg",
+      "groundTruth": "DL59C6152",
+      "tag": "night",
+      "index": 277
+    },
+    {
+      "filename": "real_174_day.jpg",
+      "groundTruth": "KL06B8396",
+      "tag": "day",
+      "index": 174
+    },
+    {
+      "filename": "real_290_rain.jpg",
+      "groundTruth": "22BH8800CD",
+      "tag": "rain",
+      "index": 290
+    },
+    {
+      "filename": "real_081_blur.jpg",
+      "groundTruth": "GJ01TQ1800",
+      "tag": "blur",
+      "index": 81
+    },
+    {
+      "filename": "real_003_blur.jpg",
+      "groundTruth": "WB82QV2326",
+      "tag": "blur",
+      "index": 3
+    },
+    {
+      "filename": "real_142_angle.jpg",
+      "groundTruth": "TN24F4301",
+      "tag": "angle",
+      "index": 142
+    },
+    {
+      "filename": "real_229_night.jpg",
+      "groundTruth": "UP95EP6165",
+      "tag": "night",
+      "index": 229
+    },
+    {
+      "filename": "real_112_angle.jpg",
+      "groundTruth": "UP33HJ5696",
+      "tag": "angle",
+      "index": 112
+    },
+    {
+      "filename": "real_214_angle.jpg",
+      "groundTruth": "KA22LU7935",
+      "tag": "angle",
+      "index": 214
+    },
+    {
+      "filename": "real_292_angle.jpg",
+      "groundTruth": "GJ25ZL6796",
+      "tag": "angle",
+      "index": 292
+    },
+    {
+      "filename": "real_101_dirty.jpg",
+      "groundTruth": "KL47QD9745",
+      "tag": "dirty",
+      "index": 101
+    },
+    {
+      "filename": "real_013_night.jpg",
+      "groundTruth": "24BH2878JD",
+      "tag": "night",
+      "index": 13
+    },
+    {
+      "filename": "real_258_day.jpg",
+      "groundTruth": "KA94MT8423",
+      "tag": "day",
+      "index": 258
+    },
+    {
+      "filename": "real_119_dirty.jpg",
+      "groundTruth": "HR57E7866",
+      "tag": "dirty",
+      "index": 119
+    },
+    {
+      "filename": "real_111_blur.jpg",
+      "groundTruth": "MH14KE9498",
+      "tag": "blur",
+      "index": 111
+    },
+    {
+      "filename": "real_047_dirty.jpg",
+      "groundTruth": "AP60WP6693",
+      "tag": "dirty",
+      "index": 47
+    },
+    {
+      "filename": "real_015_blur.jpg",
+      "groundTruth": "UP93PD1787",
+      "tag": "blur",
+      "index": 15
+    },
+    {
+      "filename": "real_016_angle.jpg",
+      "groundTruth": "WB90EP3065",
+      "tag": "angle",
+      "index": 16
+    },
+    {
+      "filename": "real_216_day.jpg",
+      "groundTruth": "WB55MJ3797",
+      "tag": "day",
+      "index": 216
+    },
+    {
+      "filename": "real_044_rain.jpg",
+      "groundTruth": "WB45Q8296",
+      "tag": "rain",
+      "index": 44
+    },
+    {
+      "filename": "real_279_blur.jpg",
+      "groundTruth": "WB73AU7128",
+      "tag": "blur",
+      "index": 279
+    },
+    {
+      "filename": "real_052_angle.jpg",
+      "groundTruth": "24BH6044JV",
+      "tag": "angle",
+      "index": 52
+    },
+    {
+      "filename": "real_071_dirty.jpg",
+      "groundTruth": "MH55B7904",
+      "tag": "dirty",
+      "index": 71
+    },
+    {
+      "filename": "real_114_day.jpg",
+      "groundTruth": "GJ04C8869",
+      "tag": "day",
+      "index": 114
+    },
+    {
+      "filename": "real_125_dirty.jpg",
+      "groundTruth": "AP81FX9798",
+      "tag": "dirty",
+      "index": 125
+    },
+    {
+      "filename": "real_140_rain.jpg",
+      "groundTruth": "KA67T1050",
+      "tag": "rain",
+      "index": 140
+    },
+    {
+      "filename": "real_012_day.jpg",
+      "groundTruth": "20BH8497YP",
+      "tag": "day",
+      "index": 12
+    },
+    {
+      "filename": "real_057_blur.jpg",
+      "groundTruth": "MH46LQ5927",
+      "tag": "blur",
+      "index": 57
+    }
+  ]
+}

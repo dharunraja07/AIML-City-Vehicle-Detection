@@ -1,0 +1,53 @@
+{
+  "timestamp": "2026-09-29 20:45:31",
+  "totalClipsEvaluated": 5,
+  "totalVehiclesEvaluated": 10,
+  "overallConsensusAccuracy": 40.0,
+  "clipResults": [
+    {
+      "clipId": 1,
+      "clipName": "Coimbatore Junction North",
+      "inputVideo": "clip_01.mp4",
+      "annotatedVideo": "annotated_clip_01.mp4",
+      "vehicleCount": 2,
+      "consensusPlateAccuracy": 0.0,
+      "fps": 2.49
+    },
+    {
+      "clipId": 2,
+      "clipName": "Avinashi Road Highway",
+      "inputVideo": "clip_02.mp4",
+      "annotatedVideo": "annotated_clip_02.mp4",
+      "vehicleCount": 2,
+      "consensusPlateAccuracy": 50.0,
+      "fps": 2.36
+    },
+    {
+      "clipId": 3,
+      "clipName": "Trichy Road Intersection",
+      "inputVideo": "clip_03.mp4",
+      "annotatedVideo": "annotated_clip_03.mp4",
+      "vehicleCount": 2,
+      "consensusPlateAccuracy": 0.0,
+      "fps": 2.59
+    },
+    {
+      "clipId": 4,
+      "clipName": "Gandhipuram Flyover Entry",
+      "inputVideo": "clip_04.mp4",
+      "annotatedVideo": "annotated_clip_04.mp4",
+      "vehicleCount": 2,
+      "consensusPlateAccuracy": 100.0,
+      "fps": 2.12
+    },
+    {
+      "clipId": 5,
+      "clipName": "Ukkadam Lake Bypass",
+      "inputVideo": "clip_05.mp4",
+      "annotatedVideo": "annotated_clip_05.mp4",
+      "vehicleCount": 2,
+      "consensusPlateAccuracy": 50.0,
+      "fps": 2.49
+    }
+  ]
+}

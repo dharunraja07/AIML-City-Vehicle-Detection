@@ -1,0 +1,8 @@
+{
+  "sampleIndex": 6,
+  "filename": "aug_photo_029_orig.jpg",
+  "groundTruth": "WB40YF9755",
+  "rawOCR": "WB4OYF9755",
+  "correctedText": "WB4OYF9755",
+  "failureCauseDiagnosis": "Dark mud/dirt smudges merged character contours into background, causing OCR digit confusion."
+}

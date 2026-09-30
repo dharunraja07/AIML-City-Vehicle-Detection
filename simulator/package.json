@@ -1,0 +1,12 @@
+{
+  "name": "netratrack-simulator",
+  "version": "1.0.0",
+  "description": "Traffic & Camera Network Simulator for NetraTrack",
+  "main": "simulator.js",
+  "scripts": {
+    "start": "node simulator.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
