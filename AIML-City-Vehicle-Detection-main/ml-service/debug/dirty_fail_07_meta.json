@@ -1,0 +1,8 @@
+{
+  "sampleIndex": 10,
+  "filename": "aug_photo_058_dirty.jpg",
+  "groundTruth": "MH74E2676",
+  "rawOCR": "74E976",
+  "correctedText": "74E976",
+  "failureCauseDiagnosis": "Dark mud/dirt smudges merged character contours into background, causing OCR digit confusion."
+}

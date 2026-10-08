@@ -1,0 +1,14 @@
+{
+  "name": "netratrack-master",
+  "version": "1.0.0",
+  "description": "NetraTrack Master Runner - City-Wide AI Engine for ANPR & Urban Traffic Analytics",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "seed": "cd server && npm run seed"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2",
+    "playwright": "^1.63.0"
+  }
+}
